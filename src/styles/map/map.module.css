@@ -1,0 +1,32 @@
+.mapContainer{
+  height: 780px;
+}
+.zoomButtons button:first-child {
+background-image: url(/assets/images/zoom1.svg);
+}
+.zoomButtons button:last-child {
+background-image: url(/assets/images/zoom2.svg);
+}
+.zoomButtons button {
+      width: 45px;
+      height: 44px;
+      background-repeat: no-repeat;
+      border-radius: 100%;
+      background-color: transparent;
+      margin: 0 10px;
+      display: inline-block;
+}
+.zoomButtons{
+  display: flex;
+  position: absolute;
+  bottom: 35px;
+  left: 15px;
+}
+@media screen and (max-width: 768px) {
+    .zoomButtons{
+        display: none;
+    }
+    .mapContainer{
+
+    }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "location": "Poikkijärvi",
+    "latitude": "67.8348711",
+    "longitude": "20.6146749",
+    "Altitude": "340 masl"
+  },
+  {
+    "location": "VÄKKÄRÄ",
+    "latitude": "67.9160713",
+    "longitude": "20.5645823",
+    "Altitude": "362 masl"
+  },
+  {
+    "location": "Sevujärvi",
+    "latitude": "67.875770",
+    "longitude": "20.781760",
+    "Altitude": "380 masl"
+  },
+  {
+    "location": "kattuvouma",
+    "latitude": "68.3101270",
+    "longitude": "20.0392800",
+    "Altitude": "360 masl"
+  },
+  {
+    "location": "Råstojaure",
+    "latitude": "68,7932020",
+    "longitude": "20,4088700",
+    "Altitude": "680 masl"
+  }
+]

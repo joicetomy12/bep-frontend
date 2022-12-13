@@ -1,0 +1,35 @@
+.tagLabel {
+     position: relative;
+      margin: 5px;
+}
+.tagLabel label{
+    width: max-content;
+    border-radius: 3px;
+    padding: 8px 12px;
+    border: 1px solid #D2D2D2;
+    margin-bottom: 0;
+    font-size: 16px !important;
+    color: #303030 !important;
+    font-weight: 400;
+   
+}
+.tagLabel input {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    opacity: 0;
+}
+.tagLabel input[type=checkbox]:checked+label {
+   background: #D2D2D2;
+}
+.tagLabel span {
+    opacity: 0;
+}
+.tagLabel span img{
+        vertical-align: baseline;
+}
+.tagLabel input[type=checkbox]:checked+label span{opacity: 1;}

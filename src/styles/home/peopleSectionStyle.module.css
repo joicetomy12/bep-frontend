@@ -1,0 +1,316 @@
+.outerDiv {
+  /*padding-left: 5%;*/
+}
+.flexContainer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  /* align-content: center; */
+  align-content: center;
+}
+
+.FeatureCard{
+  width: 250px;
+}
+
+.title {
+  font-family: 'Arctic Fox Headline';
+  font-weight: 900;
+  font-style: normal;
+  line-height: 34px;
+  text-align: center;
+  line-height: 100%;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-size: 34px;
+  color: #303030;
+  border-radius: 4px;
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 34px;
+  }
+  .FeatureCard {
+    margin-right: 0px !important;
+  }
+  .react-multi-carousel-item {
+    width: 269px !important;
+  }
+}
+
+.subTitle {
+  font-family: 'Arctic Fox';
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.01em;
+  margin-top: 24px;
+  color: #303030;
+  border-radius: 4px;
+  align-self: stretch;
+  margin: 24px 0px;
+}
+
+@media (max-width: 786px) {
+  .subTitle {
+    margin-bottom: 48px;
+  }
+}
+
+.cardAbout {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  position: static;
+  align-self: stretch;
+  padding: 24px;
+  background: #fff;
+  position: relative;
+  margin-bottom: 5px;
+}
+
+@media (max-width: 540px) {
+  .FeatureCard{
+    width: 100%;
+  }
+}
+
+.cardTitle,
+.cardTitle a {
+  font-family: 'Arctic Fox';
+  font-style: normal;
+  font-weight: bold;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  font-size: 20px;
+  color: #303030;
+}
+
+.cardDescription {
+  font-family: 'Arctic Fox';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.01em;
+  color: #303030;
+  margin-top: 16px;
+  margin-bottom: 24px;
+  height: auto;
+  max-height: 80px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* number of lines to show */
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.location {
+  color: #303030;
+  font-family: 'Arctic Fox';
+  font-weight: bold;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 100%;
+  text-transform: uppercase;
+  margin-left: 8px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  border-radius: 4px;
+  font-size: 12px;
+  color: #303030;
+  align-items: center;
+  border-radius: 4px;
+}
+
+.flagImg {
+  vertical-align: sub;
+  width: 14px;
+}
+
+.addresCard {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  margin-top: 16px;
+}
+
+.chevronRightIcon {
+  margin-left: 13px;
+  margin-top: -3px;
+}
+
+.sustainability {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  font-size: 12px;
+  padding: 1px 8px;
+  background-color: #6c7c57;
+  border-radius: 4px;
+  padding: 1px 10px;
+  margin-right: 5px;
+}
+
+.sustainability > span {
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 12px;
+  line-height: 100%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.testingsection {
+  font-size: 50px;
+  margin-left: 50px;
+}
+
+.goToEvent {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  border: none;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 0.02em;
+  color: #303030;
+  background-color: #ffffff;
+  width: 100%;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1; /* number of lines to show */
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.goToEvent svg {
+  stroke: #b93228;
+}
+
+.FeatureCard {
+  margin: 10px 10px 10px 3px;
+  border-radius: 4px;
+  height: 100%;
+  background: #fff;
+  margin-right: 15px;
+}
+
+.FeatureCard:hover .cardBackgroundImage img {
+  transform: scale(1.05);
+}
+.cardBackgroundImage {
+  max-height: 145px;
+  /* max-width: 255px; */
+  width: 100%;
+  display: flex;
+  flex-direction: Column;
+  background-size: fit;
+  align-items: baseline;
+  overflow: hidden;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.cardBackgroundImage a {
+  width: 100%;
+}
+
+.cardBackgroundImage img {
+  width: 90%;
+  border-radius: 5px 5px 0px 0px;
+  object-fit: cover;
+  transition: transform 0.5s ease-in-out, -webkit-transform 0.5s ease-in-out;
+}
+
+.footerButton {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 16px 24px;
+  border-radius: 4px;
+  justify-self: center;
+  margin: auto;
+}
+
+.footerButton > a {
+  height: 44px;
+  display: flex;
+  justify-content: center;
+}
+
+.slideOuter button {
+  background: rgb(255 255 255) !important;
+  border: 1px solid #ccc;
+}
+
+.FeatureCard button {
+  border: none !important;
+  opacity: 1 !important;
+}
+
+.slideOuter button:before {
+  color: #000;
+}
+.slideOuter {
+  padding-left: 0%;
+  margin-left: -14px;
+  margin-right: -14px;
+}
+
+.slideOuter button:hover {
+  opacity: 0.6;
+}
+@media (max-width: 768px) {
+  .outerDiv {
+    padding-left: 0;
+  }
+  .cardBackgroundImage > img {
+    min-height: 370px;
+  }
+  .responsiveTopFix {
+    padding-top: 0 !important;
+  }
+}
+.goToEvent:hover {
+  color: #cc1618;
+  text-decoration: none;
+}
+
+.goToEvent:hover svg {
+  -webkit-transform: translate(10px, 0);
+  transform: translate(10px, 0);
+}
+
+.goToEvent svg {
+  fill: #b93228;
+  stroke: #b93228;
+  transition: transform 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
+}
+.goToEvent {
+  position: absolute;
+  /* padding: 24px; */
+  bottom: 0px;
+  background: transparent !important;
+}
+.imgGrayScale {
+  filter: grayscale(100%);
+}

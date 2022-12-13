@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-width: 100%;
+    align-items: stretch !important;
+    border-radius: 4px;
+    overflow: hidden;
+    height: 465px;
+    background-color: rebeccapurple;
+  }
+  @media (max-width: 767px) {
+    .card {
+      flex-direction: column;
+    }
+  }
+  

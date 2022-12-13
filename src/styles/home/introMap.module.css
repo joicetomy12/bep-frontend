@@ -1,0 +1,46 @@
+.innerLayout {
+  display: grid;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  grid-template: repeat(1, 1fr) / repeat(1, 1fr);
+  grid-template-areas: 'ft';
+}
+.simplepad{
+  padding-right: 13px !important;
+  padding-left: 13px !important;
+}
+.viewPanelActive {
+  grid-template-columns: 1fr 375px;
+  grid-template-rows: 1fr;
+  grid-template-areas: 'ft tl';
+  max-width: 100vw;
+  padding-right: 0;
+}
+.innerMapContainer {
+}
+.maptopper{
+    display: none;
+
+}
+
+@media (max-width: 480px) {
+  .viewPanelActive {
+    grid-template-columns: 1fr 100%;
+  }
+}
+.filterButton {
+  display: none;
+}
+@media screen and (max-width: 900px) {
+  .filterButton {
+    display: block;
+  }
+  .maptopper {
+    display: block;
+     
+  }
+ 
+}

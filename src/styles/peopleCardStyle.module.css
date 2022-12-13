@@ -1,0 +1,191 @@
+.cardAbout {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  position: static;
+  align-self: stretch;
+  padding: 24px;
+  background: #fff;
+  position: relative;
+  margin-bottom: 5px;
+}
+
+.noResults {
+  height: 100px;
+  text-align: center;
+  margin: auto;
+  width: 100px;
+}
+
+.cardTitle,
+.cardTitle a {
+  font-family: 'Arctic Fox';
+  font-style: normal;
+  font-weight: bold;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  font-size: 20px;
+  color: #303030;
+}
+.cardTitle a:hover {
+  text-decoration: none;
+}
+.goToEvent:hover {
+  color: #cc1618;
+  text-decoration: none;
+}
+
+.goToEvent:hover svg {
+  -webkit-transform: translate(10px, 0);
+  transform: translate(10px, 0);
+}
+
+.goToEvent svg {
+  fill: #b93228;
+  stroke: #b93228;
+  transition: transform 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
+}
+@media (max-width: 786px) {
+  .title {
+    margin-top: 64px;
+  }
+}
+.cardDescription {
+  font-family: 'Arctic Fox';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.01em;
+  color: #303030;
+  margin-top: 16px;
+  margin-bottom: 24px;
+  height: auto;
+  max-height: 80px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* number of lines to show */
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.location {
+  color: #303030;
+  font-family: 'Arctic Fox';
+  font-weight: bold;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 100%;
+  text-transform: uppercase;
+  margin-left: 8px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  border-radius: 4px;
+  font-size: 12px;
+  color: #303030;
+  align-items: center;
+  border-radius: 4px;
+}
+
+.flagImg {
+  vertical-align: sub;
+}
+
+.addresCard {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  margin-top: 16px;
+}
+
+.chevronRightIcon {
+  margin-left: 13px;
+  margin-top: -5px;
+}
+.sustainability {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  font-size: 12px;
+  padding: 1px 8px;
+  background-color: #6c7c57;
+  border-radius: 4px;
+  padding: 1px 10px;
+  margin-right: 5px;
+}
+
+.sustainability > span {
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 12px;
+  line-height: 100%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.testingsection {
+  font-size: 50px;
+  margin-left: 50px;
+}
+
+.goToEvent {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  border: none;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 0.02em;
+  color: #303030;
+  background-color: #ffffff;
+  align-items: center;
+  position: absolute;
+  left: 40px;
+  bottom: 15px;
+}
+
+.goToEvent svg {
+  stroke: #b93228;
+}
+
+.FeatureCard {
+  border-radius: 4px;
+  height: 100%;
+  background: #fff;
+}
+
+.cardBackgroundImage {
+  max-height: 197px;
+  /* max-width: 350px; */
+  width: 100%;
+  display: flex;
+  flex-direction: Column;
+  background-size: fit;
+  align-items: baseline;
+  overflow: hidden;
+  border-radius: 5px 5px 0 0;
+}
+.FeatureCard:hover .cardBackgroundImage img {
+  transform: scale(1.05);
+}
+.cardBackgroundImage a img,
+.cardBackgroundImage a {
+  width: 100%;
+  border-radius: 5px 5px 0px 0px;
+  object-fit: cover;
+  transition: transform 0.5s ease-in-out, -webkit-transform 0.5s ease-in-out;
+}
+.imgGrayScale {
+  filter: grayscale(100%);
+}

@@ -1,0 +1,123 @@
+.card {
+    flex-direction: row;
+    align-items: center;
+    position: absolute;
+
+    top: 28px;
+    left: 28px;
+
+    background: #fff;
+    max-width: 435px;
+    padding: 10px;
+    align-items: stretch !important;
+    border-radius: 4px 4px 0 0;
+    min-width: 360px;
+}
+
+.cardBody {
+    width: 70%;
+}
+
+.cardTitle {
+    font-weight: bold;
+}
+
+.card img {
+    width: 30%;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: calc(0.25rem - 1px);
+}
+
+.cardImgTop {
+    background-image: url("../../../public/assets/images/featureEventImage.png");
+    width: 22%;
+    background-size: cover;
+    border-radius: 5px;
+
+}
+
+.cardButton {
+    max-width: 100%;
+    background: transparent !important;
+    padding: 0 10px 0 0px !important;
+    border: 1px solid #303030 !important;
+    border-radius: 100px;
+    width: max-content;
+    height: 24px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.cardButton img {
+    margin: 0 2px 0 0px;
+    width: 25px;
+}
+
+.cardBody .cardText {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.cardCloseBtn {
+    position: absolute;
+    right: 10px;
+    width: 20px;
+    top: 5px;
+    text-align: right;
+}
+
+.cardCloseBtn img {
+    width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+    .cardBody {
+        padding: 0.5em 1.2em;
+    }
+
+    .cardBody .cardText {
+        margin: 0;
+    }
+
+    .card img {
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .card img {
+        width: 40%;
+    }
+}
+@media(max-width:480px){
+    .card {
+        right: 0;
+    flex-direction: row;
+    align-items: center;
+    position: absolute;
+    top: 74px;
+    left: 0;
+    background: #fff;
+    max-width: 85%;
+    padding: 10px;
+    align-items: stretch !important;
+    border-radius: 4px 4px 0 0;
+    min-width: 200px;
+    margin: auto;
+    }
+    .cardTitle {
+            font-size: 15px;
+    }
+    .cardBody {
+            padding: 0.5em 0px;
+    }
+    .cardButton {
+        width: 100%;
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    .cardButton img {
+        margin: 0 2px 0 0px;
+        width: 20px;
+    }
+}

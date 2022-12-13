@@ -1,0 +1,54 @@
+.maptopico {
+  position: relative;
+  display: flex;
+  height: 103px;
+  padding: 16px;
+}
+.maplogo {
+  width: 50px;
+  height: 50px;
+}
+.caption {
+  font-family: 'Arctic Fox';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  position: absolute;
+  height: 32px;
+  left: 82px;
+  right: 8px;
+  top: 6px;
+  max-width: 182px;
+}
+.mapDesc {
+  position: absolute;
+  width: 269px;
+  height: 40px;
+  left: 82px;
+  top: 37px;
+  font-family: 'Arctic Fox';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 0.07em;
+  color: #303030;
+  border-radius: 4px;
+  text-align: left;
+}
+.clozediv {
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+
+.close {
+  height: 18px;
+  width: 18px;
+  border-radius: 0px;
+}

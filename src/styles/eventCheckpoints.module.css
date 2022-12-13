@@ -1,0 +1,26 @@
+ .cardTitle {
+     font-size: 15px;
+     border-bottom: 1px solid #ccc;
+     padding: 10px 0px;
+     margin-bottom: 0;
+     align-items: center;
+     display: flex;
+     position: relative;
+ }
+
+ .cardTitle img {
+     margin-right: 10px;
+     width: 15px;
+ }
+
+ .cardTitle:after {
+     content: "";
+     width: 30px;
+     height: 30px;
+     background-image: url(../../public/assets/images/blockArrowDown.svg);
+     position: absolute;
+     right: 0;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: 12px;
+ }

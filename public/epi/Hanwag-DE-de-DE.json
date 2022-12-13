@@ -1,0 +1,1592 @@
+{
+  "siteName": "Hanwag",
+  "marketId": "DE",
+  "language": "de-DE",
+  "homePageUrl": "https://www.hanwag.com/de/de-de",
+  "loginPageUrl": "https://www.hanwag.com/de/de-de/my-account/login",
+  "accountPageUrl": "https://www.hanwag.com/de/de-de/my-account/account-overview",
+  "topNavigationMessage": "<a target=\"_blank\" href=\"https://www.hanwag.com/de/de-de/kundenservice/versand\"><strong>Kostenloser Versand ab 50&euro;</strong></a>",
+  "stickyFlag": {
+    "hoverLabel": null,
+    "content": ""
+  },
+  "currentMarket": {
+    "flag": "flag-icon-de",
+    "marketName": "Germany",
+    "currencySymbol": "€",
+    "defaultLanguage": "German (Germany)",
+    "hideUrl": true,
+    "languageUrlDictionary": {
+      "german (Germany)": "https://www.hanwag.com/de/de-de"
+    }
+  },
+  "regionSelector": {
+    "welcomeBlock": {
+      "image": null,
+      "imageLink": "",
+      "title": "Willkommen bei Hanwag.com",
+      "subtitle": "Aufgrund deines Standorts haben wir die folgenden Spracheinstellungen für dich:"
+    },
+    "selectRegionBlock": {
+      "image": null,
+      "imageLink": null,
+      "title": null,
+      "subtitle": null
+    },
+    "selectLanguageBlock": {
+      "image": null,
+      "imageLink": null,
+      "title": null,
+      "subtitle": null
+    },
+    "currentPageUrl": "",
+    "currentMarketViewModel": {
+      "flag": "flag-icon-de",
+      "marketName": "Deutschland",
+      "currencySymbol": "€",
+      "defaultLanguage": "German (Germany)",
+      "hideUrl": true,
+      "languageUrlDictionary": {
+        "german (Germany)": "https://www.hanwag.com/de/de-de"
+      }
+    },
+    "marketGroups": [
+      {
+        "groupName": "Europe",
+        "availableMarkets": [
+          {
+            "flag": "flag-icon-de",
+            "marketName": "Deutschland",
+            "currencySymbol": "€",
+            "defaultLanguage": "German (Germany)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "german (Germany)": "https://www.hanwag.com/de/de-de"
+            }
+          },
+          {
+            "flag": "flag-icon-eu",
+            "marketName": "Europa",
+            "currencySymbol": "€",
+            "defaultLanguage": "English (United Kingdom)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "english (United Kingdom)": "https://www.hanwag.com/eu/en-gb"
+            }
+          },
+          {
+            "flag": "flag-icon-nl",
+            "marketName": "Niederlande",
+            "currencySymbol": "€",
+            "defaultLanguage": "Dutch (Netherlands)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "dutch (Netherlands)": "https://www.hanwag.com/nl/nl-nl"
+            }
+          }
+        ]
+      },
+      {
+        "groupName": "NorthAmerica",
+        "availableMarkets": [
+          {
+            "flag": "flag-icon-us",
+            "marketName": "USA",
+            "currencySymbol": "$",
+            "defaultLanguage": "English (United States)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "english (United States)": "https://www.hanwag.com/us/en-us"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "showBackToTopArrow": false,
+  "topNavigationSiteLinks": [
+    {
+      "icon": null,
+      "htmlIcon": "",
+      "label": "Händler Suche",
+      "ariaLabel": null,
+      "link": "https://www.hanwag.com/de/de-de/kundenservice/haendlerverzeichnis",
+      "openContentInNewTab": false
+    },
+    {
+      "icon": null,
+      "htmlIcon": "",
+      "label": "Blog",
+      "ariaLabel": null,
+      "link": "https://www.hanwag.com/de/de-de/blog",
+      "openContentInNewTab": false
+    }
+  ],
+  "mainMenu": {
+    "desktopMenuItems": [
+      {
+        "menuName": "Men",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "https://www.hanwag.com/de/de-de/herren",
+        "children": [
+          {
+            "menuName": "Neuheiten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/neuheiten",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Alpine",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/alpine",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Rock",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/rock",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Trekking",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/trekking",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Trek Light",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/trek-light",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Hiking",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/hiking",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Travel",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/travel",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Wwwwr",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/wwwwr",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Zwiegenäht",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/zwiegenaht",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Yak",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/yak",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Bunion",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/bunion",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Damen",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "https://www.hanwag.com/de/de-de/damen",
+        "children": [
+          {
+            "menuName": "Neuheiten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/neuheiten",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Alpine",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/alpine",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Rock",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/rock",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Trekking",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/trekking",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Trek Light",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/trek-light",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Hiking",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/hiking",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Travel",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/travel",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Wwwwr",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/wwwwr",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Zwiegenäht",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/zwiegenaht",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Yak",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/yak",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Bunion",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/bunion",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Accessories",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "https://www.hanwag.com/de/de-de/accessories",
+        "children": [
+          {
+            "menuName": "Footbeds",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/accessories/einlegesohlen",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Socks",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/accessories/socken",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Pflegeprodukte",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/accessories/pflegeprodukte",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Schnürsenkel",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/accessories/schnursenkel",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Über Hanwag",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "https://www.hanwag.com/de/de-de/uber-hanwag",
+        "children": [
+          {
+            "menuName": "Unsere Geschichte",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/uber-hanwag/unsere-geschichte",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Markenwerte",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/uber-hanwag/markenwerte",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Produktion",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/uber-hanwag/produktion",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Die Hanwag Passform",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/uber-hanwag/die-hanwag-passform",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Materialien",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/uber-hanwag/materialien",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Nachhaltigkeit",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "https://www.hanwag.com/de/de-de/nachhaltigkeit",
+        "children": [
+          {
+            "menuName": "Verantwortung",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/nachhaltigkeit/verantwortung",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Schuhpflege",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/nachhaltigkeit/schuhpflege",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Wiederbesohlung",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/nachhaltigkeit/wiederbesohlung",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Finde deinen Schuh",
+        "menuStyle": "Style1",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "https://www.hanwag.com/de/de-de/finde-deinen-schuh",
+        "children": [],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": false
+      }
+    ],
+    "mobileMenuItems": [
+      {
+        "menuName": "Men",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "https://www.hanwag.com/de/de-de/herren",
+        "children": [
+          {
+            "menuName": "Neuheiten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/neuheiten",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Alpine",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/alpine",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Rock",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/rock",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Trekking",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/trekking",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Trek Light",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/trek-light",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Hiking",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/hiking",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Travel",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/travel",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Wwwwr",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/wwwwr",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Zwiegenäht",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/zwiegenaht",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Yak",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/yak",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Bunion",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/herren/bunion",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Damen",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "https://www.hanwag.com/de/de-de/damen",
+        "children": [
+          {
+            "menuName": "Neuheiten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/neuheiten",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Alpine",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/alpine",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Rock",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/rock",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Trekking",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/trekking",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Trek Light",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/trek-light",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Hiking",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/hiking",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Travel",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/travel",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Wwwwr",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/wwwwr",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Zwiegenäht",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/zwiegenaht",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Yak",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/yak",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Bunion",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/damen/bunion",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Accessories",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "https://www.hanwag.com/de/de-de/accessories",
+        "children": [
+          {
+            "menuName": "Footbeds",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/accessories/einlegesohlen",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Socks",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/accessories/socken",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Pflegeprodukte",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/accessories/pflegeprodukte",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Schnürsenkel",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/accessories/schnursenkel",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Über Hanwag",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "https://www.hanwag.com/de/de-de/uber-hanwag",
+        "children": [
+          {
+            "menuName": "Unsere Geschichte",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/uber-hanwag/unsere-geschichte",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Markenwerte",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/uber-hanwag/markenwerte",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Produktion",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/uber-hanwag/produktion",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Die Hanwag Passform",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/uber-hanwag/die-hanwag-passform",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Materialien",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/uber-hanwag/materialien",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Nachhaltigkeit",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "https://www.hanwag.com/de/de-de/nachhaltigkeit",
+        "children": [
+          {
+            "menuName": "Verantwortung",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/nachhaltigkeit/verantwortung",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Schuhpflege",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/nachhaltigkeit/schuhpflege",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Wiederbesohlung",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://www.hanwag.com/de/de-de/nachhaltigkeit/wiederbesohlung",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Finde deinen Schuh",
+        "menuStyle": "Style1",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "https://www.hanwag.com/de/de-de/finde-deinen-schuh",
+        "children": [],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": false
+      }
+    ],
+    "backgroundColor": null
+  },
+  "miniCart": {
+    "checkoutPageUrl": "https://www.hanwag.com/de/de-de/checkout",
+    "checkoutLabel": "Zur Kasse",
+    "weAcceptLabel": "Wir akzeptieren:",
+    "paymentMethodImageUrls": [
+      "https://www.hanwag.com/48eebb/globalassets/master-page/visa_logo.png",
+      "https://www.hanwag.com/49738b/globalassets/master-page/trustly-small.png",
+      "https://www.hanwag.com/492b8e/globalassets/master-page/maestro.jpg",
+      "https://www.hanwag.com/48eea7/globalassets/master-page/mastercard_logo.png"
+    ],
+    "yourCartLabel": "Dein Warenkorb\n",
+    "quantityLabel": "Qty",
+    "shippingCalculatedAtCheckoutLabel": "Versandkosten werden an der Kasse berechnet",
+    "taxCalculatedAtCheckoutLabel": "Steuer wird an der Kasse berechnet",
+    "subTotalLabel": "Zwischensumme",
+    "discountLabel": "Rabatt",
+    "totalLabel": "Summe\n",
+    "vatIncludedLabel": "(inkl. MwSt)",
+    "maxQuantity": 10
+  },
+  "footer": {
+    "mobileText": "",
+    "firstColumn": {
+      "label": "KUNDENSERVICE",
+      "footerItems": [
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Grössentabelle",
+          "ariaLabel": null,
+          "linkUrl": "https://www.hanwag.com/de/de-de/kundenservice/grossentabellen",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Kontakt",
+          "ariaLabel": null,
+          "linkUrl": "https://www.hanwag.com/de/de-de/kundenservice/kontakt",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "FAQ",
+          "ariaLabel": null,
+          "linkUrl": "https://support.hanwag.com/hc/de",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Versand",
+          "ariaLabel": null,
+          "linkUrl": "https://www.hanwag.com/de/de-de/kundenservice/versand",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Retouren",
+          "ariaLabel": null,
+          "linkUrl": "https://www.hanwag.com/de/de-de/kundenservice/retouren",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Bezahlung",
+          "ariaLabel": null,
+          "linkUrl": "https://www.hanwag.com/de/de-de/kundenservice/bezahlung",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Händler Suche",
+          "ariaLabel": null,
+          "linkUrl": "https://www.hanwag.com/de/de-de/kundenservice/haendlerverzeichnis",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        }
+      ]
+    },
+    "secondColumn": {
+      "label": "ÜBER HANWAG",
+      "footerItems": [
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Über uns",
+          "ariaLabel": null,
+          "linkUrl": "https://www.hanwag.com/de/de-de/uber-hanwag",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Nachhaltigkeit",
+          "ariaLabel": null,
+          "linkUrl": "https://www.hanwag.com/de/de-de/nachhaltigkeit",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Händler Log-In",
+          "ariaLabel": null,
+          "linkUrl": "https://b2b.hanwag.de/user/login",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Karriere",
+          "ariaLabel": null,
+          "linkUrl": "http://karriere.hanwag.de/",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Presseinformationen",
+          "ariaLabel": null,
+          "linkUrl": "https://www.press.hanwag.com/de/",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "desktopHeight": 20,
+          "mobileHeight": 0
+        }
+      ]
+    },
+    "thirdColumn": {
+      "label": "BLOG",
+      "footerItems": [
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Hanwag Blog",
+          "ariaLabel": null,
+          "linkUrl": "https://blog.hanwag.de/",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Hanwag Alpine Experience",
+          "ariaLabel": null,
+          "linkUrl": "https://blog.hanwag.de/alpine-experience/",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        }
+      ]
+    },
+    "fourthColumn": {
+      "label": "LEGAL",
+      "footerItems": [
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "AGB & Kundeninformationen",
+          "ariaLabel": null,
+          "linkUrl": "https://www.hanwag.com/de/de-de/legal/allgemeine-geschaftsbedingungen",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Impressum",
+          "ariaLabel": null,
+          "linkUrl": "https://www.hanwag.com/de/de-de/legal/impressum",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Datenschutzverordnung",
+          "ariaLabel": null,
+          "linkUrl": "https://www.hanwag.com/de/de-de/legal/datenschutz",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Cookie-Richtlinie",
+          "ariaLabel": null,
+          "linkUrl": "https://www.hanwag.com/de/de-de/legal/datenschutz#cookie-policy",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "desktopHeight": 15,
+          "mobileHeight": 15
+        }
+      ]
+    },
+    "socialLinksColumn": {
+      "label": null,
+      "footerItems": [
+        {
+          "iconUrl": null,
+          "htmlIcon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 500 500\" class=\"footer--icon\"> <circle cx=\"250.3\" cy=\"255.2\" r=\"48.2\"></circle> <path d=\"M362.9,170c-2.6-6.7-5.8-11.6-10.8-16.6c-5.1-5.1-9.9-8.2-16.6-10.8c-5.1-2-12.7-4.3-26.8-5 c-15.2-0.7-19.8-0.8-58.4-0.8c-38.6,0-43.2,0.1-58.4,0.8c-14.1,0.6-21.7,3-26.8,5c-6.7,2.6-11.6,5.8-16.6,10.8 c-5.1,5.1-8.2,9.9-10.8,16.6c-2,5.1-4.3,12.7-5,26.8c-0.7,15.2-0.8,19.8-0.8,58.4c0,38.6,0.1,43.2,0.8,58.4c0.6,14.1,3,21.7,5,26.8 c2.6,6.7,5.8,11.6,10.8,16.6c5.1,5.1,9.9,8.2,16.6,10.8c5.1,2,12.7,4.3,26.8,5c15.2,0.7,19.8,0.8,58.4,0.8 c38.6,0,43.2-0.1,58.4-0.8c14.1-0.6,21.7-3,26.8-5c6.7-2.6,11.6-5.8,16.6-10.8c5.1-5.1,8.2-9.9,10.8-16.6c2-5.1,4.3-12.7,5-26.8 c0.7-15.2,0.8-19.8,0.8-58.4c0-38.6-0.1-43.2-0.8-58.4C367.3,182.7,364.9,175.1,362.9,170z M250.3,329.5c-41,0-74.2-33.2-74.2-74.2 c0-41,33.2-74.2,74.2-74.2c41,0,74.2,33.2,74.2,74.2C324.5,296.2,291.2,329.5,250.3,329.5z M327.4,195.4c-9.6,0-17.3-7.8-17.3-17.3 c0-9.6,7.8-17.3,17.3-17.3c9.6,0,17.3,7.8,17.3,17.3C344.8,187.7,337,195.4,327.4,195.4z\"></path> <path d=\"M250,0C111.9,0,0,111.9,0,250c0,138.1,111.9,250,250,250c138.1,0,250-111.9,250-250C500,111.9,388.1,0,250,0z M393.9,314.8c-0.7,15.4-3.1,25.9-6.7,35.1c-3.7,9.5-8.6,17.6-16.7,25.6c-8,8-16.1,13-25.6,16.7c-9.2,3.6-19.7,6-35.1,6.7 c-15.4,0.7-20.3,0.9-59.6,0.9c-39.3,0-44.2-0.2-59.6-0.9c-15.4-0.7-25.9-3.1-35.1-6.7c-9.5-3.7-17.6-8.6-25.6-16.7 c-8-8-13-16.1-16.7-25.6c-3.6-9.2-6-19.7-6.7-35.1c-0.7-15.4-0.9-20.3-0.9-59.6c0-39.3,0.2-44.2,0.9-59.6 c0.7-15.4,3.1-25.9,6.7-35.1c3.7-9.5,8.6-17.6,16.7-25.6c8-8,16.1-13,25.6-16.7c9.2-3.6,19.7-6,35.1-6.7 c15.4-0.7,20.3-0.9,59.6-0.9c39.3,0,44.2,0.2,59.6,0.9c15.4,0.7,25.9,3.1,35.1,6.7c9.5,3.7,17.6,8.6,25.6,16.7 c8,8,13,16.1,16.7,25.6c3.6,9.2,6,19.7,6.7,35.1c0.7,15.4,0.9,20.3,0.9,59.6C394.8,294.5,394.6,299.4,393.9,314.8z\"></path> </svg>",
+          "label": "@hanwagoffical",
+          "ariaLabel": null,
+          "linkUrl": "https://www.instagram.com/hanwagofficial/",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 500 500\" class=\"footer--icon\"> <path d=\"M249.7,0.1c-138.1,0-250,111.9-250,250c0,138.1,111.9,250,250,250c138.1,0,250-111.9,250-250 C499.7,112.1,387.8,0.1,249.7,0.1z M323.2,151.8c0,0-24.9,0-34.7,0c-12.3,0-14.8,5-14.8,17.7c0,10.6,0,30.6,0,30.6h49.5l-4.8,53.8 h-44.8v160.7h-64.2v-160h-33.4v-54.5h33.4c0,0,0-7.8,0-42.9C209.4,117,231,96,278.7,96c7.8,0,44.4,0,44.4,0V151.8z\"></path> </svg>",
+          "label": "Hanwag Facebook",
+          "ariaLabel": null,
+          "linkUrl": "https://www.facebook.com/Hanwag",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "<svg viewbox=\"0 0 48 48\" class=\"footer--icon\" xmlns=\"http://www.w3.org/2000/svg\"> <path class=\"eacls-1\" d=\"M12.61 25.77h1.9v10.3h1.8v-10.3h1.94v-1.68h-5.64zM27.83 27a2.2 2.2 0 00-1.67 1v-3.91h-1.62v12h1.62v-.86a2.2 2.2 0 001.67 1 1.28 1.28 0 001.29-1 7 7 0 00.17-1.8v-3.6a6.72 6.72 0 00-.17-1.83 1.28 1.28 0 00-1.29-1zm-.16 6.49c0 .8-.24 1.2-.7 1.2a1.16 1.16 0 01-.81-.4v-5.41a1.14 1.14 0 01.81-.39c.46 0 .7.41.7 1.22zM21.52 34c-.36.51-.7.76-1 .76s-.34-.13-.38-.38a3.69 3.69 0 010-.63v-6.61h-1.66v7.06a4.45 4.45 0 00.15 1.33 1 1 0 001 .66 2.59 2.59 0 001.85-1.09v1h1.62v-8.96h-1.58zM22.91 18.89c.53 0 .78-.42.78-1.25v-3.8c0-.83-.25-1.25-.78-1.25s-.78.42-.78 1.25v3.8c0 .83.25 1.25.78 1.25z\"></path><path class=\"eacls-1\" d=\"M24 0a24 24 0 1024 24A24 24 0 0024 0zm2.67 11.23h1.63v6.64a3.93 3.93 0 000 .64c0 .25.16.38.38.38s.67-.26 1-.77v-6.89h1.63v9h-1.57v-1a2.66 2.66 0 01-1.87 1.11 1 1 0 01-1.06-.68 5 5 0 01-.14-1.34zm-6.18 2.94A3.57 3.57 0 0121 12a2.27 2.27 0 011.91-.92 2.24 2.24 0 011.91.92 3.58 3.58 0 01.5 2.13v3.16a3.54 3.54 0 01-.5 2.12 2.23 2.23 0 01-1.91.93 2.25 2.25 0 01-1.91-.89 3.54 3.54 0 01-.51-2.12zm-4.37-6l1.29 4.76 1.23-4.76h1.84l-2.18 7.18v4.9h-1.82v-4.9a27.93 27.93 0 00-1.11-3.84c-.38-1.12-.78-2.25-1.16-3.37zm20.8 28.72a3.39 3.39 0 01-2.92 2.6 90.62 90.62 0 01-10 .37 90.62 90.62 0 01-10-.37 3.39 3.39 0 01-2.89-2.63 28.47 28.47 0 01-.47-6.33 29.08 29.08 0 01.47-6.33A3.4 3.4 0 0114 21.57a90.52 90.52 0 0110-.37 90.62 90.62 0 0110 .37 3.4 3.4 0 012.9 2.63 29.08 29.08 0 01.46 6.33 28.47 28.47 0 01-.47 6.33z\"></path><path class=\"eacls-1\" d=\"M33 27a2.27 2.27 0 00-1.93.92 3.43 3.43 0 00-.5 2.1v3.13a3.49 3.49 0 00.51 2.1 2.33 2.33 0 002 .91 2.25 2.25 0 002-1 2.4 2.4 0 00.38-1V33h-1.72v1.09c-.1.44-.33.65-.73.65s-.82-.41-.82-1.24v-1.6h3.23v-1.85a3.5 3.5 0 00-.5-2.1A2.22 2.22 0 0033 27zm.8 3.52h-1.64v-.82c0-.83.27-1.24.81-1.24s.81.41.81 1.24z\"></path></svg>",
+          "label": "Youtube",
+          "ariaLabel": null,
+          "linkUrl": "https://www.youtube.com/user/HANWAGVideoChannel",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        }
+      ]
+    },
+    "gaOptwwwxt": "Opt-in for Google tracking",
+    "gaOptOutText": "Opt-out for Google tracking",
+    "royalImageUrl": null,
+    "royalImageAlternateText": "",
+    "royalText": null
+  }
+}

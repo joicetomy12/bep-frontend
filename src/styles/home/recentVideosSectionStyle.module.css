@@ -1,0 +1,61 @@
+.youtubeBox {
+  position: relative;
+  height: 530px;
+}
+.padtop {
+  padding-top: 23px;
+}
+.youtubeBox button {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  height: 76px;
+  width: 76px;
+  border-radius: 100%;
+  margin: auto;
+  border: none;
+}
+.youtubeBox button img {
+  width: 40px;
+}
+.followButton {
+  padding-top: 25px;
+}
+.sectiontitle {
+  font-weight: 900;
+  font-size: 34px;
+  line-height: 34px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  max-width: 548px;
+  font-family: 'Arctic Fox Headline';
+  margin-bottom: 20px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (max-width: 768px) {
+  .youtubeBox {
+    height:  394px;
+  }
+  .youtubeBox iframe {
+    height: 394px;
+  }
+}
+@media (max-width: 480px) {
+  .youtubeBox {
+    height: 168px;
+  }
+  .youtubeBox iframe {
+    height: 168px;
+  }
+  .followButton {
+    padding-bottom: 20px;
+  }
+  .sectiontitle {
+    margin-top: 0;
+  }
+}

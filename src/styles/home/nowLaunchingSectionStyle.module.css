@@ -1,0 +1,111 @@
+.bigImage {
+  width: 100%;
+  object-fit: cover;
+  margin-left: auto;
+  margin-right: auto;
+  height: 780px;
+}
+.mapImagexxx {
+  width: 100%;
+  object-fit: cover;
+  margin-left: auto;
+  margin-right: auto;
+  height: 780px;
+}
+.subtitles {
+  font-family: 'Arctic Fox';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 130%;
+  /* identical to box height, or 26px */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.01em;
+
+  /* Common / Black */
+
+  color: #303030;
+
+  border-radius: 4px;
+
+  /* Inside auto layout */
+  margin-top: 24px;
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+  width: 100%;
+}
+
+.centerDiv {
+  position: absolute;
+  right: 0;
+  left: 0;
+  height: max-content;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  text-align: center;
+  max-width: 90%;
+  text-align: center;
+  padding: 0 10px;
+}
+
+.centerDiv h3 {
+  color: #fff;
+  font-weight: 900;
+  font-size: 58px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: 'Arctic Fox Headline';
+}
+
+.centerDiv p {
+  font-size: 20px;
+  color: #fff;
+  line-height: 26px;
+}
+
+@media (max-width: 768px) {
+  .centerDiv h3 {
+    font-size: 46px;
+  }
+  .mapImagexxx {
+    object-fit: cover;
+    height: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .centerDiv h3 {
+    font-size: 33px;
+  }
+
+  .bigImage {
+    width: 100%;
+    height: 343px;
+    /* min-height: 430px !important; */
+    object-fit: cover;
+  }
+}
+
+.primaryBtn {
+  width: max-content;
+  font-size: 14px;
+  min-width: auto;
+  font-style: normal;
+  font-weight: bold;
+  padding: 10px 24px;
+  background: #ffffff;
+  -webkit-box-shadow: 0px 0px 48px rgb(0 0 0 / 8%);
+  box-shadow: 0px 0px 48px rgb(0 0 0 / 8%);
+  border-radius: 4px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #303030;
+  text-transform: uppercase;
+}

@@ -1,0 +1,28 @@
+.addresCard {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  margin-top: 16px;
+}
+
+.addresCard img {
+  vertical-align: baseline;
+}
+.location {
+  color: #303030;
+  font-size: 12px;
+  line-height: 20px;
+  padding-left: 5px;
+}
+.cardDescription {
+  font-size: 16px;
+  font-family: Arctic Fox;
+  font-style: normal;
+  font-weight: normal;
+  margin: 24px 0px;
+  line-height: 26px;
+}
+.flexico{
+  display: flex;
+}

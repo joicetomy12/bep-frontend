@@ -1,0 +1,201 @@
+.guideName {
+  text-transform: uppercase;
+  font-family: 'Arctic Fox Headline';
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 34px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+
+.sustainability_span {
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 12px;
+  line-height: 100%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.videowidth {
+  /* width: 1100px !important; */
+  width: 100%;
+  height: 661px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* 
+.backpackItem {
+  font-family: 'Arctic Fox';
+  font-size: 24px;
+  font-style: bold;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0.02em;
+  text-align: left;
+} */
+
+.sustainability_taglist {
+  align-items: center;
+  width: max-content;
+  font-size: 12px;
+  border-radius: 4px;
+  padding: 1px 10px;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  float: left;
+  margin-left: 3px;
+}
+
+.backpackImg {
+  width: 100%;
+  max-height: 661px;
+  object-fit: contain;
+}
+
+.location {
+  color: #303030;
+  font-family: 'Arctic Fox';
+  font-weight: bold;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 100%;
+  text-transform: uppercase;
+  margin-left: 8px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  border-radius: 4px;
+  font-size: 12px;
+  color: #303030;
+  border-radius: 4px;
+}
+
+.goToEvent {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  border: none;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 0.02em;
+  color: #303030;
+  background-color: #ffffff;
+  align-items: center;
+  text-decoration: none;
+}
+
+.goToEvent svg {
+  stroke: #b93228;
+}
+
+.goToEvent:hover {
+  color: #cc1618;
+  text-decoration: none;
+}
+
+.goToEvent:hover svg {
+  -webkit-transform: translate(10px, 0);
+  transform: translate(10px, 0);
+}
+
+.goToEvent svg {
+  fill: #b93228;
+  stroke: #b93228;
+  transition: transform 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
+}
+.goToEvent {
+  background: transparent !important;
+}
+
+.chevronRightIcon {
+  margin-left: 13px;
+  margin-top: -5px;
+}
+
+.flagImg {
+  vertical-align: sub;
+}
+.cardDescription {
+  font-size: 16px;
+  margin-top: 10px;
+}
+.peopleImg {
+  width: 140px;
+  height: 140px;
+  border-radius: 100%;
+  border: 5px solid #fff;
+  border: 5px solid #f4f4f4;
+  margin-top: -70px;
+  margin-bottom: 20px;
+  object-fit: cover;
+}
+@media (max-width: 768px) {
+  .peopleImg {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 163px;
+    height: 163px;
+    border: 8px solid #fff;
+  }
+  .backpackImg {
+    margin: 0%;
+  }
+
+  .sustainability_taglist {
+    margin-top: 3px;
+  }
+
+  .socialmedia1,
+  .socialmedia2 {
+    display: none;
+  }
+  .socialmedia_1,
+  .socialmedia_2 {
+    display: block;
+    margin-left: 8px;
+  }
+  .guideName {
+    text-align: center;
+  }
+  .location {
+    color: #303030;
+    font-family: 'Arctic Fox';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 100%;
+    margin-left: 8px;
+    display: flex;
+    letter-spacing: 0.03em;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: center;
+    text-transform: none;
+    /* padding-bottom: 10px; */
+  }
+}
+.title {
+  padding-top: 100px;
+}
+.socialmedia1,
+.socialmedia2 {
+  margin-left: 8px;
+}
+@media (min-width: 768px) {
+  .socialmedia_1,
+  .socialmedia_2 {
+    display: none;
+  }
+}
+.imgGrayScale {
+  filter: grayscale(100%);
+}

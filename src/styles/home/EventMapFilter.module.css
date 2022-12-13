@@ -1,0 +1,118 @@
+.filterBtn {
+  background-color: #fff;
+  border: none;
+  text-align: center;
+  width: 100%;
+  -webkit-appearance: none;
+}
+.activeFilter {
+  background-color: rgba(229, 229, 229, 0.9) !important;
+}
+.filterBtn label {
+  font-size: 12px;
+  text-align: center;
+  margin-bottom: 0;
+}
+.filterBtn img {
+  display: block;
+  margin: 0 auto -6px;
+  height: 80px;
+}
+.filterBox {
+  left: 24px;
+  display: flex;
+  bottom: 77px;
+  border-radius: 6px;
+  padding: 5px;
+  background: #fff;
+  flex-wrap: wrap;
+  width: 117px;
+  height: 655px;
+  top: 0;
+  border: 0;
+}
+.filterBoxMobile {
+  height: 76vh;
+}
+.rightBox {
+  border-top: 1px solid #e5e5e5;
+  margin-top: 0;
+  padding-top: 0;
+  /* margin-top: 10px;
+  padding-top: 10px; */
+}
+.filterBoxMobile button {
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.05) !important;
+  border-radius: 4px;
+  width: 100% !important;
+}
+.filterBoxMobile {
+  display: grid !important;
+  grid-template-columns: auto auto;
+  position: relative !important;
+  width: 100%;
+  background: transparent;
+  left: 0;
+  right: 0;
+  column-gap: 16px;
+  row-gap: 16px;
+  margin-top: 20px;
+}
+
+.filterBoxMobile button img {
+  display: block;
+  margin: 0 auto -6px;
+  height: 75px;
+  width: 75px;
+}
+.filterBoxMobile button label {
+  letter-spacing: 0.02em;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  color: #303030;
+  margin-top: 22px;
+}
+.filterBoxMobileBody {
+  position: relative;
+  padding: 20px;
+}
+
+.footerMobile {
+  margin-top: 100px;
+  position: relative;
+}
+.headerMobile {
+  padding: 5px;
+}
+.headerMobile h3 {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 20px;
+  color: #303030;
+}
+
+.closeMobile {
+  position: absolute !important;
+  left: 15px !important;
+  top: 15px;
+  height: 40px;
+  width: 40px;
+  z-index: 99;
+}
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  /* rules only apply in saf3+, chrome1+ */
+  .filterBoxMobileBody {
+    position: relative;
+    padding: 0!important;;
+  }
+  .headerMobile {
+    padding: 0!important;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .filterBoxHide {
+    display: none;
+  }
+}

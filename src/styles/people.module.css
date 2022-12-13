@@ -1,0 +1,7 @@
+
+@media (min-width: 540px) and (max-width: 768px) {
+  .subcontainer{
+    max-width: 720px;
+  }
+  
+}

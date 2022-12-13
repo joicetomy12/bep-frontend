@@ -1,0 +1,10 @@
+.mainHeaderContainer {
+  position: fixed;
+  width: 100%;
+  z-index: 99;
+  background: #f4f4f4;
+}
+.navstyle{
+  height: 70px;
+  /* background-color: aqua; */
+}

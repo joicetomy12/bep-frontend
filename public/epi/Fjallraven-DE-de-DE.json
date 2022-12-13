@@ -1,0 +1,2699 @@
+{
+  "siteName": "Fjallraven",
+  "marketId": "DE",
+  "currencyCode": "EUR",
+  "language": "de-DE",
+  "homePageUrl": "/de/de-de",
+  "loginPageUrl": "/de/de-de/my-account/login",
+  "accountPageUrl": "https://www.fjallraven.com/de/de-de/my-account/account-overview",
+  "topNavigationMessage": "<a target=\"_blank\" href=\"https://www.fjallraven.com/de/de-de/kundenservice/versand\"><strong>Kostenloser Versand ab 100&euro;</strong></a>",
+  "stickyFlag": {
+    "hoverLabel": "Our Heritage",
+    "content": "<img src=\"https://www.fjallraven.com/4a5a97/contentassets/f6bd9e7070854e8e8bc7466993bb994a/men_with_backpack.jpg\" alt=\"Man with backpack\" width=\"500\" height=\"500\" />\n<div class=\"flag--content\">\n<p style=\"font-size: 28px;\"><strong>It all started with a backpack</strong></p>\n<p><em>Since 1960, nature's been in our DNA<br /><br /></em>Fj&auml;llr&auml;ven began in one man&rsquo;s basement and then branched out all over the world. But our original goal hasn&rsquo;t changed: to inspire and enable more people to walk with nature. Follow our journey from backpacks and tents to sustainable development and events.</p>\n</div>"
+  },
+  "currentMarket": {
+    "flag": "flag-icon-de",
+    "marketName": "Germany",
+    "currencySymbol": "€",
+    "defaultLanguage": "German (Germany)",
+    "hideUrl": true,
+    "languageUrlDictionary": {
+      "german (Germany)": "/de/de-de"
+    }
+  },
+  "regionSelector": {
+    "welcomeBlock": {
+      "image": "/498ca9/globalassets/save-the-arctic-fox.png",
+      "imageLink": "",
+      "title": "Willkommen bei Fjällräven",
+      "subtitle": "Aufgrund deines Standorts haben wir die folgenden Spracheinstellungen für dich:"
+    },
+    "selectRegionBlock": {
+      "image": null,
+      "imageLink": null,
+      "title": null,
+      "subtitle": null
+    },
+    "selectLanguageBlock": {
+      "image": null,
+      "imageLink": null,
+      "title": null,
+      "subtitle": null
+    },
+    "currentPageUrl": "",
+    "currentMarketViewModel": {
+      "flag": "flag-icon-de",
+      "marketName": "Deutschland",
+      "currencySymbol": "€",
+      "defaultLanguage": "German (Germany)",
+      "hideUrl": true,
+      "languageUrlDictionary": {
+        "german (Germany)": "/de/de-de"
+      }
+    },
+    "marketGroups": [
+      {
+        "groupDisplayName": "Europa\n",
+        "groupName": "Europe",
+        "availableMarkets": [
+          {
+            "flag": "flag-icon-de",
+            "marketName": "Deutschland",
+            "currencySymbol": "€",
+            "defaultLanguage": "German (Germany)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "german (Germany)": "/de/de-de"
+            }
+          },
+          {
+            "flag": "flag-icon-dk",
+            "marketName": "Dänemark",
+            "currencySymbol": "kr.",
+            "defaultLanguage": "Danish (Denmark)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "danish (Denmark)": "/dk/da-dk"
+            }
+          },
+          {
+            "flag": "flag-icon-eu",
+            "marketName": "Europa",
+            "currencySymbol": "€",
+            "defaultLanguage": "English (United Kingdom)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "english (United Kingdom)": "/eu/en-gb"
+            }
+          },
+          {
+            "flag": "flag-icon-fi",
+            "marketName": "Finland",
+            "currencySymbol": "€",
+            "defaultLanguage": "Finnish (Finland)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "finnish (Finland)": "/fi/fi-fi"
+            }
+          },
+          {
+            "flag": "flag-icon-fr",
+            "marketName": "Frankreich",
+            "currencySymbol": "€",
+            "defaultLanguage": "French (France)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "french (France)": "/fr/fr-fr"
+            }
+          },
+          {
+            "flag": "flag-icon-nl",
+            "marketName": "Niederlande",
+            "currencySymbol": "€",
+            "defaultLanguage": "Dutch (Netherlands)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "dutch (Netherlands)": "/nl/nl-nl"
+            }
+          },
+          {
+            "flag": "flag-icon-no",
+            "marketName": "Norwegen",
+            "currencySymbol": "kr",
+            "defaultLanguage": "Norwegian",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "norwegian": "/no/no"
+            }
+          },
+          {
+            "flag": "flag-icon-se",
+            "marketName": "Schweden",
+            "currencySymbol": "kr",
+            "defaultLanguage": "Swedish (Sweden)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "swedish (Sweden)": "/se/sv-se"
+            }
+          },
+          {
+            "flag": "flag-icon-gb",
+            "marketName": "Großbritannien",
+            "currencySymbol": "£",
+            "defaultLanguage": "English (United Kingdom)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "english (United Kingdom)": "/uk/en-gb"
+            }
+          }
+        ]
+      },
+      {
+        "groupDisplayName": "Nordamerika",
+        "groupName": "NorthAmerica",
+        "availableMarkets": [
+          {
+            "flag": "flag-icon-ca",
+            "marketName": "Kanada",
+            "currencySymbol": "$",
+            "defaultLanguage": "English (Canada)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "english (Canada)": "/ca/en-ca",
+              "french (Canada)": "/ca/fr-ca"
+            }
+          },
+          {
+            "flag": "flag-icon-us",
+            "marketName": "USA",
+            "currencySymbol": "$",
+            "defaultLanguage": "English (United States)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "english (United States)": "/us/en-us"
+            }
+          }
+        ]
+      },
+      {
+        "groupDisplayName": "Asien",
+        "groupName": "Asia",
+        "availableMarkets": [
+          {
+            "flag": "flag-icon-hk",
+            "marketName": "Asien / Pazifikregion",
+            "currencySymbol": "$",
+            "defaultLanguage": "English (United Kingdom)",
+            "hideUrl": false,
+            "languageUrlDictionary": {
+              "english (United Kingdom)": "http://www.fjallravenasia.com"
+            }
+          },
+          {
+            "flag": "flag-icon-cn",
+            "marketName": "China",
+            "currencySymbol": "¥",
+            "defaultLanguage": "English (United Kingdom)",
+            "hideUrl": false,
+            "languageUrlDictionary": {
+              "english (United Kingdom)": "http://www.fjallraven.cn"
+            }
+          },
+          {
+            "flag": "flag-icon-kr",
+            "marketName": "Südkorea",
+            "currencySymbol": "₩",
+            "defaultLanguage": "English (United Kingdom)",
+            "hideUrl": false,
+            "languageUrlDictionary": {
+              "english (United Kingdom)": "http://www.fjallraven.co.kr"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "showBackToTopArrow": false,
+  "topNavigationSiteLinks": [
+    {
+      "icon": "/4abd6f/globalassets/material-icons/icon_organic.png",
+      "htmlIcon": "",
+      "label": "Nachhaltigkeit",
+      "ariaLabel": null,
+      "link": "https://www.fjallraven.com/de/de-de/uber-uns/unsere-verantwortung",
+      "openContentInNewTab": false
+    },
+    {
+      "icon": null,
+      "htmlIcon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 34 34\" class=\"locator-link--icon\"> <path d=\"M17,34a1,1,0,0,1-1-1V29a1,1,0,0,1,2,0v4A1,1,0,0,1,17,34Z\"></path> <path d=\"M17,0A17,17,0,1,0,34,17,17,17,0,0,0,17,0Zm0,32A15,15,0,0,1,16,2.05V5a1,1,0,0,0,2,0V2.05A15,15,0,0,1,32,16H29a1,1,0,0,0,0,2H32A15,15,0,0,1,17,32Z\"></path> <path class=\"locator-link--arrow\" d=\"M14,14h0L7.69,26.31,20,20h0L26,8,14,14Zm-1.69,7.69,3.18-6.2,3,3Z\"></path> <path d=\"M5,18H1a1,1,0,0,1,0-2H5a1,1,0,0,1,0,2Z\"></path> </svg>",
+      "label": "Finde deinen Store",
+      "ariaLabel": null,
+      "link": "https://www.fjallraven.com/de/de-de/kundenservice/store-locator",
+      "openContentInNewTab": false
+    }
+  ],
+  "mainMenu": {
+    "desktopMenuItems": [
+      {
+        "menuName": "Herren",
+        "menuStyle": "Style2",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/de/de-de/herren",
+        "children": [
+          {
+            "menuName": "Fjällräven/Specialized",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/herren/fjallraven-specialized",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/de/de-de/herren/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Neuheiten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/herren/neuheiten",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/de/de-de/herren/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Jacken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/herren/jacken",
+            "children": [
+              {
+                "menuName": "Winterjacken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/jacken/winterjacken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Daunenjacken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/jacken/daunenjacken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Parkas",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/jacken/parkas",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Outdoorjacken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/jacken/outdoorjacken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Trekkingjacken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/jacken/trekkingjacken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Shelljacken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/jacken/shelljacken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Mountaineering-Jacken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/jacken/mountaineering-jacken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Jagdjacken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/jacken/jagdjacken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Anoraks",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/jacken/anoraks",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Westen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/jacken/westen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/de/de-de/herren/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Hosen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/herren/hosen",
+            "children": [
+              {
+                "menuName": "Trekkinghosen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/hosen/trekkinghosen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Outdoorhosen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/hosen/outdoorhosen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Hardshellhosen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/hosen/hardshellhosen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Jagdhosen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/hosen/jagdhosen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Mountaineering-Hosen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/hosen/mountaineering-hosen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Trekking-tights",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/hosen/trekking-tights",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Base Layer Hosen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/hosen/base-layer-hosen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Gefütterte Hosen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/hosen/gefutterte-hosen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Shorts",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/hosen/shorts",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/de/de-de/herren/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Oberteile",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/herren/oberteile",
+            "children": [
+              {
+                "menuName": "Fleeces",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/oberteile/fleeces",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Pullover & Sweatshirts",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/oberteile/pullover-sweatshirts",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Hemden",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/oberteile/hemden",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "T-Shirts & Tops",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/oberteile/t-shirts-tops",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Base Layer Oberteile",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/oberteile/base-layer-oberteile",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/de/de-de/herren/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/herren/accessoires",
+            "children": [
+              {
+                "menuName": "Mützen, Hüte & Beanies",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/accessoires/mutzen-hute-beanies",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Gürtel & Hosenträger",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/accessoires/gurtel-hosentrager",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Pflegeprodukte",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/accessoires/pflegeprodukte",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Sonstiges Zubehör",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/herren/accessoires/sonstiges-zubehor",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/de/de-de/herren/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/de/de-de/herren/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          }
+        ],
+        "imageData": {
+          "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+          "imageLink": "/de/de-de/herren/hosen",
+          "imageText": "Hosen",
+          "imageTextColor": "featured-image-text"
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Damen",
+        "menuStyle": "Style2",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/de/de-de/damen",
+        "children": [
+          {
+            "menuName": "Fjällräven/Specialized",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/damen/fjallraven-specialized",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/de/de-de/damen/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Neuheiten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/damen/neuheiten",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/de/de-de/damen/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Jacken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/damen/jacken",
+            "children": [
+              {
+                "menuName": "Winterjacken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/jacken/winterjacken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Daunenjacken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/jacken/daunenjacken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Parkas",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/jacken/parkas",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Outdoorjacken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/jacken/outdoorjacken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Trekkingjacken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/jacken/trekkingjacken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Shelljacken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/jacken/shelljacken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Mountaineering-Jacken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/jacken/mountaineering-jacken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Jagdjacken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/jacken/jagdjacken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Anoraks",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/jacken/anoraks",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Westen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/jacken/westen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/de/de-de/damen/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Hosen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/damen/hosen",
+            "children": [
+              {
+                "menuName": "Trekkinghosen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/hosen/trekkinghosen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Outdoorhosen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/hosen/outdoorhosen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Hardshellhosen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/hosen/hardshellhosen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Jagdhosen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/hosen/jagdhosen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Mountaineering-Hosen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/hosen/mountaineering-hosen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Trekking-tights",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/hosen/trekking-tights",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Base Layer Hosen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/hosen/base-layer-hosen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Gefütterte Hosen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/hosen/gefutterte-hosen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Shorts & Röcke",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/hosen/shorts-rocke",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/de/de-de/damen/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Oberteile",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/damen/oberteile",
+            "children": [
+              {
+                "menuName": "Fleeces",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/oberteile/fleeces",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Pullover & Sweatshirts",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/oberteile/pullover-sweatshirts",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Hemden",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/oberteile/hemden",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "T-Shirts & Tops",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/oberteile/t-shirts-tops",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Base Layer Oberteile",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/oberteile/base-layer-oberteile",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Kleider",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/oberteile/kleider",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/de/de-de/damen/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/damen/accessoires",
+            "children": [
+              {
+                "menuName": "Mützen, Hüte & Beanies",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/accessoires/mutzen-hute-beanies",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Gürtel & Hosenträger",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/accessoires/gurtel-hosentrager",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Pflegeprodukte",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/accessoires/pflegeprodukte",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Sonstiges Zubehör",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/damen/accessoires/sonstiges-zubehor",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/de/de-de/damen/hosen",
+                  "imageText": "Hosen",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/de/de-de/damen/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          }
+        ],
+        "imageData": {
+          "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+          "imageLink": "/de/de-de/damen/hosen",
+          "imageText": "Hosen",
+          "imageTextColor": "featured-image-text"
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Taschen & Ausrüstung",
+        "menuStyle": "Style2",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/de/de-de/taschen-ausrustung",
+        "children": [
+          {
+            "menuName": "Fjällräven/Specialized",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/taschen-ausrustung/fjallraven-specialized",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/de/de-de/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Neuheiten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/taschen-ausrustung/neuheiten",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/de/de-de/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Kånken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/taschen-ausrustung/kanken",
+            "children": [
+              {
+                "menuName": "Kånken Rucksäcke",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/kanken/kanken-rucksacke",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Kånken Accessoires",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/kanken/kanken-accessoires",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Save the Arctic Fox",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/kanken/save-the-arctic-fox",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/de/de-de/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Rucksäcke & Taschen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/taschen-ausrustung/rucksacke-taschen",
+            "children": [
+              {
+                "menuName": "Tagesrucksäcke",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/rucksacke-taschen/tagesrucksacke",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Laptoptaschen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/rucksacke-taschen/laptoptaschen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Schultertaschen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/rucksacke-taschen/schultertaschen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Wanderrucksäcke",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/rucksacke-taschen/wanderrucksacke",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Jagdrucksäcke",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/rucksacke-taschen/jagdrucksacke",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Mountaineering-Rucksäcke",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/rucksacke-taschen/mountaineering-rucksacke",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Hüfttaschen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/rucksacke-taschen/hufttaschen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Reisetaschen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/rucksacke-taschen/reisetaschen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/de/de-de/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/taschen-ausrustung/accessoires",
+            "children": [
+              {
+                "menuName": "Rucksäcke & Taschen Zubehör",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/accessoires/rucksacke-taschen-zubehor",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Portemonnaies & kleine Taschen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/accessoires/portemonnaies-kleine-taschen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Reisezubehör",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/accessoires/reisezubehor",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Jagdausrüstung",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/accessoires/jagdausrustung",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/de/de-de/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Zelte & Schlafsäcke",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/taschen-ausrustung/zelte-schlafsacke",
+            "children": [
+              {
+                "menuName": "Zelte",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/zelte-schlafsacke/zelte",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Zeltzubehör",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/zelte-schlafsacke/zeltzubehor",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Schlafsäcke",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/de/de-de/taschen-ausrustung/zelte-schlafsacke/schlafsacke",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/de/de-de/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/de/de-de/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          }
+        ],
+        "imageData": {
+          "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+          "imageLink": "/de/de-de/kanken-me",
+          "imageText": "Kånken Me",
+          "imageTextColor": "featured-image-text"
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Kinder",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/de/de-de/kinder",
+        "children": [
+          {
+            "menuName": "Neuheiten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/kinder/neuheiten",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Rucksäcke",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "/de/de-de/kinder/rucksacke",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Jacken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/kinder/jacken",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Hosen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/kinder/hosen",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Oberteile",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/kinder/oberteile",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/kinder/accessoires",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Unsere Abenteuer",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/de/de-de/unsere-abenteuer",
+        "children": [
+          {
+            "menuName": "Foxtrail",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://foxtrail.fjallraven.de/",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Classic",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "http://classic.fjallraven.com/",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Polar",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "http://polar.fjallraven.com/",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "The Arctic Fox Initiative",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/uber-uns/funding",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      }
+    ],
+    "mobileMenuItems": [
+      {
+        "menuName": "Herren",
+        "menuStyle": "Style2",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/de/de-de/herren",
+        "children": [
+          {
+            "menuName": "Fjällräven/Specialized",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/herren/fjallraven-specialized",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/de/de-de/herren/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Neuheiten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/herren/neuheiten",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/de/de-de/herren/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Jacken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/herren/jacken",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/de/de-de/herren/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Hosen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/herren/hosen",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/de/de-de/herren/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Oberteile",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/herren/oberteile",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/de/de-de/herren/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/herren/accessoires",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/de/de-de/herren/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+          "imageLink": "/de/de-de/herren/hosen",
+          "imageText": "Hosen",
+          "imageTextColor": "featured-image-text"
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Damen",
+        "menuStyle": "Style2",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/de/de-de/damen",
+        "children": [
+          {
+            "menuName": "Fjällräven/Specialized",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/damen/fjallraven-specialized",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/de/de-de/damen/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Neuheiten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/damen/neuheiten",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/de/de-de/damen/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Jacken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/damen/jacken",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/de/de-de/damen/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Hosen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/damen/hosen",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/de/de-de/damen/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Oberteile",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/damen/oberteile",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/de/de-de/damen/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/damen/accessoires",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/de/de-de/damen/hosen",
+              "imageText": "Hosen",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+          "imageLink": "/de/de-de/damen/hosen",
+          "imageText": "Hosen",
+          "imageTextColor": "featured-image-text"
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Taschen & Ausrüstung",
+        "menuStyle": "Style2",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/de/de-de/taschen-ausrustung",
+        "children": [
+          {
+            "menuName": "Fjällräven/Specialized",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/taschen-ausrustung/fjallraven-specialized",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/de/de-de/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Neuheiten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/taschen-ausrustung/neuheiten",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/de/de-de/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Kånken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/taschen-ausrustung/kanken",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/de/de-de/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Rucksäcke & Taschen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/taschen-ausrustung/rucksacke-taschen",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/de/de-de/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/taschen-ausrustung/accessoires",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/de/de-de/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Zelte & Schlafsäcke",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/taschen-ausrustung/zelte-schlafsacke",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/de/de-de/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+          "imageLink": "/de/de-de/kanken-me",
+          "imageText": "Kånken Me",
+          "imageTextColor": "featured-image-text"
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Kinder",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/de/de-de/kinder",
+        "children": [
+          {
+            "menuName": "Neuheiten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/kinder/neuheiten",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Rucksäcke",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "/de/de-de/kinder/rucksacke",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Jacken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/kinder/jacken",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Hosen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/kinder/hosen",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Oberteile",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/kinder/oberteile",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/kinder/accessoires",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Unsere Abenteuer",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/de/de-de/unsere-abenteuer",
+        "children": [
+          {
+            "menuName": "Foxtrail",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://foxtrail.fjallraven.de/",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Classic",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "http://classic.fjallraven.com/",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Polar",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "http://polar.fjallraven.com/",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "The Arctic Fox Initiative",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/de/de-de/uber-uns/funding",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      }
+    ],
+    "backgroundColor": null
+  },
+  "miniCart": {
+    "checkoutPageUrl": "/de/de-de/checkout",
+    "checkoutLabel": "Zur Kasse",
+    "weAcceptLabel": "Wir akzeptieren:",
+    "paymentMethodImageUrls": [
+      "/4990f5/globalassets/cartcheckout-logos/visa.png",
+      "/4990f5/globalassets/cartcheckout-logos/mastercard.png",
+      "/4990f5/globalassets/cartcheckout-logos/maestro.png",
+      "/4990f5/globalassets/cartcheckout-logos/apple-pay.png",
+      "/4990f5/globalassets/cartcheckout-logos/paypal.png"
+    ],
+    "yourCartLabel": "Dein Warenkorb\n",
+    "quantityLabel": "Qty",
+    "shippingCalculatedAtCheckoutLabel": "Versandkosten werden an der Kasse berechnet",
+    "taxCalculatedAtCheckoutLabel": "Steuer wird an der Kasse berechnet",
+    "subTotalLabel": "Zwischensumme",
+    "discountLabel": "Rabatt",
+    "totalLabel": "Summe\n",
+    "vatIncludedLabel": "(inkl. MwSt)",
+    "maxQuantity": 10
+  },
+  "footer": {
+    "mobileText": "",
+    "footerLogoAriaLabel": null,
+    "firstColumn": {
+      "label": "Kundenservice",
+      "footerItems": [
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Kontakt",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/kundenservice/kontakt",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "FAQ",
+          "ariaLabel": null,
+          "linkUrl": "https://support.fjallraven.com/hc/de",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Versand",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/kundenservice/versand",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Retouren",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/kundenservice/retouren",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Bezahlung",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/kundenservice/bezahlung",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Unsere Kaufhilfen",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/kundenservice/kaufhilfen",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Produktpflege",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/kundenservice/care-repair",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Grössentabelle",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/kundenservice/grossentabellen",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "desktopHeight": 20,
+          "mobileHeight": 0
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 34 34\" class=\"locator-link--icon\"> <path d=\"M17,34a1,1,0,0,1-1-1V29a1,1,0,0,1,2,0v4A1,1,0,0,1,17,34Z\"></path> <path d=\"M17,0A17,17,0,1,0,34,17,17,17,0,0,0,17,0Zm0,32A15,15,0,0,1,16,2.05V5a1,1,0,0,0,2,0V2.05A15,15,0,0,1,32,16H29a1,1,0,0,0,0,2H32A15,15,0,0,1,17,32Z\"></path> <path class=\"locator-link--arrow\" d=\"M14,14h0L7.69,26.31,20,20h0L26,8,14,14Zm-1.69,7.69,3.18-6.2,3,3Z\"></path> <path d=\"M5,18H1a1,1,0,0,1,0-2H5a1,1,0,0,1,0,2Z\"></path> </svg>",
+          "label": "Finde deinen Store",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/kundenservice/store-locator",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        }
+      ]
+    },
+    "secondColumn": {
+      "label": "Über Fjällräven",
+      "footerItems": [
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Über uns",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/uber-uns",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Nachhaltigkeit",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/uber-uns/unsere-verantwortung",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Unsere Materialien",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/uber-uns/materialien",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Career",
+          "ariaLabel": null,
+          "linkUrl": "http://career.fjallraven.com/",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Presseinformationen",
+          "ariaLabel": null,
+          "linkUrl": "https://www.press.fjallraven.com/de/",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Covid-19",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/fjallraven-statement-covid19",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "B2B-Login",
+          "ariaLabel": null,
+          "linkUrl": "https://b2b.fjallraven.de/user/login?ReturnUrl=%2f",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "desktopHeight": 15,
+          "mobileHeight": 21
+        }
+      ]
+    },
+    "thirdColumn": {
+      "label": "Legal",
+      "footerItems": [
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "AGB & Kundeninformationen",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/rechtliche-informationen/allgemeine-geschaftsbedingungen",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Impressum",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/rechtliche-informationen/impressum",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Datenschutzerklärung",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/rechtliche-informationen/datenschutz",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        }
+      ]
+    },
+    "fourthColumn": {
+      "label": "Unsere abenteuer",
+      "footerItems": [
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Fjällräven Polar",
+          "ariaLabel": null,
+          "linkUrl": "https://polar.fjallraven.com/",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Fjällräven Classic",
+          "ariaLabel": null,
+          "linkUrl": "https://classic.fjallraven.com/",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Unser Foxtrail-Blog",
+          "ariaLabel": null,
+          "linkUrl": "https://foxtrail.fjallraven.de/",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "The Arctic Fox Initiative",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/de/de-de/uber-uns/funding",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "desktopHeight": 10,
+          "mobileHeight": 0
+        }
+      ]
+    },
+    "socialLinksColumn": {
+      "label": "Social",
+      "footerItems": [
+        {
+          "desktopHeight": 0,
+          "mobileHeight": 40
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 500 500\" class=\"footer--icon\" focusable=\"false\" aria-hidden=\"true\"> <path d=\"M249.7,0.1c-138.1,0-250,111.9-250,250c0,138.1,111.9,250,250,250c138.1,0,250-111.9,250-250 C499.7,112.1,387.8,0.1,249.7,0.1z M323.2,151.8c0,0-24.9,0-34.7,0c-12.3,0-14.8,5-14.8,17.7c0,10.6,0,30.6,0,30.6h49.5l-4.8,53.8 h-44.8v160.7h-64.2v-160h-33.4v-54.5h33.4c0,0,0-7.8,0-42.9C209.4,117,231,96,278.7,96c7.8,0,44.4,0,44.4,0V151.8z\"></path> </svg>",
+          "label": "Fjällräven",
+          "ariaLabel": "Fjällräven Facebook",
+          "linkUrl": "https://www.facebook.com/fjallravennorthamerica",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 500 500\" class=\"footer--icon\" focusable=\"false\" aria-hidden=\"true\"> <circle cx=\"250.3\" cy=\"255.2\" r=\"48.2\"></circle> <path d=\"M362.9,170c-2.6-6.7-5.8-11.6-10.8-16.6c-5.1-5.1-9.9-8.2-16.6-10.8c-5.1-2-12.7-4.3-26.8-5 c-15.2-0.7-19.8-0.8-58.4-0.8c-38.6,0-43.2,0.1-58.4,0.8c-14.1,0.6-21.7,3-26.8,5c-6.7,2.6-11.6,5.8-16.6,10.8 c-5.1,5.1-8.2,9.9-10.8,16.6c-2,5.1-4.3,12.7-5,26.8c-0.7,15.2-0.8,19.8-0.8,58.4c0,38.6,0.1,43.2,0.8,58.4c0.6,14.1,3,21.7,5,26.8 c2.6,6.7,5.8,11.6,10.8,16.6c5.1,5.1,9.9,8.2,16.6,10.8c5.1,2,12.7,4.3,26.8,5c15.2,0.7,19.8,0.8,58.4,0.8 c38.6,0,43.2-0.1,58.4-0.8c14.1-0.6,21.7-3,26.8-5c6.7-2.6,11.6-5.8,16.6-10.8c5.1-5.1,8.2-9.9,10.8-16.6c2-5.1,4.3-12.7,5-26.8 c0.7-15.2,0.8-19.8,0.8-58.4c0-38.6-0.1-43.2-0.8-58.4C367.3,182.7,364.9,175.1,362.9,170z M250.3,329.5c-41,0-74.2-33.2-74.2-74.2 c0-41,33.2-74.2,74.2-74.2c41,0,74.2,33.2,74.2,74.2C324.5,296.2,291.2,329.5,250.3,329.5z M327.4,195.4c-9.6,0-17.3-7.8-17.3-17.3 c0-9.6,7.8-17.3,17.3-17.3c9.6,0,17.3,7.8,17.3,17.3C344.8,187.7,337,195.4,327.4,195.4z\"></path> <path d=\"M250,0C111.9,0,0,111.9,0,250c0,138.1,111.9,250,250,250c138.1,0,250-111.9,250-250C500,111.9,388.1,0,250,0z M393.9,314.8c-0.7,15.4-3.1,25.9-6.7,35.1c-3.7,9.5-8.6,17.6-16.7,25.6c-8,8-16.1,13-25.6,16.7c-9.2,3.6-19.7,6-35.1,6.7 c-15.4,0.7-20.3,0.9-59.6,0.9c-39.3,0-44.2-0.2-59.6-0.9c-15.4-0.7-25.9-3.1-35.1-6.7c-9.5-3.7-17.6-8.6-25.6-16.7 c-8-8-13-16.1-16.7-25.6c-3.6-9.2-6-19.7-6.7-35.1c-0.7-15.4-0.9-20.3-0.9-59.6c0-39.3,0.2-44.2,0.9-59.6 c0.7-15.4,3.1-25.9,6.7-35.1c3.7-9.5,8.6-17.6,16.7-25.6c8-8,16.1-13,25.6-16.7c9.2-3.6,19.7-6,35.1-6.7 c15.4-0.7,20.3-0.9,59.6-0.9c39.3,0,44.2,0.2,59.6,0.9c15.4,0.7,25.9,3.1,35.1,6.7c9.5,3.7,17.6,8.6,25.6,16.7 c8,8,13,16.1,16.7,25.6c3.6,9.2,6,19.7,6.7,35.1c0.7,15.4,0.9,20.3,0.9,59.6C394.8,294.5,394.6,299.4,393.9,314.8z\"></path> </svg>",
+          "label": "Fjällräven",
+          "ariaLabel": "Fjällräven Instagram",
+          "linkUrl": "https://www.instagram.com/fjallraven_na",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "desktopHeight": 21,
+          "mobileHeight": 15
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 500 500\" class=\"footer--icon\" focusable=\"false\" aria-hidden=\"true\"> <path d=\"M249.7,0.1c-138.1,0-250,111.9-250,250c0,138.1,111.9,250,250,250c138.1,0,250-111.9,250-250 C499.7,112.1,387.8,0.1,249.7,0.1z M323.2,151.8c0,0-24.9,0-34.7,0c-12.3,0-14.8,5-14.8,17.7c0,10.6,0,30.6,0,30.6h49.5l-4.8,53.8 h-44.8v160.7h-64.2v-160h-33.4v-54.5h33.4c0,0,0-7.8,0-42.9C209.4,117,231,96,278.7,96c7.8,0,44.4,0,44.4,0V151.8z\"></path> </svg>",
+          "label": "Kånken",
+          "ariaLabel": "Kånken Facebook",
+          "linkUrl": "https://www.facebook.com/kankenbackpack",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 500 500\" class=\"footer--icon\" focusable=\"false\" aria-hidden=\"true\"> <circle cx=\"250.3\" cy=\"255.2\" r=\"48.2\"></circle> <path d=\"M362.9,170c-2.6-6.7-5.8-11.6-10.8-16.6c-5.1-5.1-9.9-8.2-16.6-10.8c-5.1-2-12.7-4.3-26.8-5 c-15.2-0.7-19.8-0.8-58.4-0.8c-38.6,0-43.2,0.1-58.4,0.8c-14.1,0.6-21.7,3-26.8,5c-6.7,2.6-11.6,5.8-16.6,10.8 c-5.1,5.1-8.2,9.9-10.8,16.6c-2,5.1-4.3,12.7-5,26.8c-0.7,15.2-0.8,19.8-0.8,58.4c0,38.6,0.1,43.2,0.8,58.4c0.6,14.1,3,21.7,5,26.8 c2.6,6.7,5.8,11.6,10.8,16.6c5.1,5.1,9.9,8.2,16.6,10.8c5.1,2,12.7,4.3,26.8,5c15.2,0.7,19.8,0.8,58.4,0.8 c38.6,0,43.2-0.1,58.4-0.8c14.1-0.6,21.7-3,26.8-5c6.7-2.6,11.6-5.8,16.6-10.8c5.1-5.1,8.2-9.9,10.8-16.6c2-5.1,4.3-12.7,5-26.8 c0.7-15.2,0.8-19.8,0.8-58.4c0-38.6-0.1-43.2-0.8-58.4C367.3,182.7,364.9,175.1,362.9,170z M250.3,329.5c-41,0-74.2-33.2-74.2-74.2 c0-41,33.2-74.2,74.2-74.2c41,0,74.2,33.2,74.2,74.2C324.5,296.2,291.2,329.5,250.3,329.5z M327.4,195.4c-9.6,0-17.3-7.8-17.3-17.3 c0-9.6,7.8-17.3,17.3-17.3c9.6,0,17.3,7.8,17.3,17.3C344.8,187.7,337,195.4,327.4,195.4z\"></path> <path d=\"M250,0C111.9,0,0,111.9,0,250c0,138.1,111.9,250,250,250c138.1,0,250-111.9,250-250C500,111.9,388.1,0,250,0z M393.9,314.8c-0.7,15.4-3.1,25.9-6.7,35.1c-3.7,9.5-8.6,17.6-16.7,25.6c-8,8-16.1,13-25.6,16.7c-9.2,3.6-19.7,6-35.1,6.7 c-15.4,0.7-20.3,0.9-59.6,0.9c-39.3,0-44.2-0.2-59.6-0.9c-15.4-0.7-25.9-3.1-35.1-6.7c-9.5-3.7-17.6-8.6-25.6-16.7 c-8-8-13-16.1-16.7-25.6c-3.6-9.2-6-19.7-6.7-35.1c-0.7-15.4-0.9-20.3-0.9-59.6c0-39.3,0.2-44.2,0.9-59.6 c0.7-15.4,3.1-25.9,6.7-35.1c3.7-9.5,8.6-17.6,16.7-25.6c8-8,16.1-13,25.6-16.7c9.2-3.6,19.7-6,35.1-6.7 c15.4-0.7,20.3-0.9,59.6-0.9c39.3,0,44.2,0.2,59.6,0.9c15.4,0.7,25.9,3.1,35.1,6.7c9.5,3.7,17.6,8.6,25.6,16.7 c8,8,13,16.1,16.7,25.6c3.6,9.2,6,19.7,6.7,35.1c0.7,15.4,0.9,20.3,0.9,59.6C394.8,294.5,394.6,299.4,393.9,314.8z\"></path> </svg>",
+          "label": "Kånken",
+          "ariaLabel": "Kånken Instagram",
+          "linkUrl": "https://www.instagram.com/kankenofficial",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        }
+      ]
+    },
+    "gaOptInText": "Opt-In for Google Tracking",
+    "gaOptOutText": "Opt-Out of Google Tracking",
+    "royalImageUrl": null,
+    "royalImageAlternateText": "",
+    "royalText": null,
+    "showCookiebotOptOutOption": false,
+    "cookiebotOptOutText": null
+  }
+}

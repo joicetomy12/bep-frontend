@@ -1,0 +1,27 @@
+.post-block-container{
+    padding-bottom: 60px;
+}
+.postBlockContainer img {
+    width: 100%;
+}
+.bigImage {
+    height: calc(100% - 15px);
+    max-height: 542px;
+    object-fit: cover;
+}
+.postBlockContainer a {
+    border-radius: 5px;
+}
+@media (max-width:768px) {
+    .bigImage {
+        height: calc(100% - 15px);
+           max-height: 332px;
+        object-fit: cover;
+    }
+}
+@media (max-width:767px){
+
+.bigImage {
+    margin-top: 15px;
+}
+}

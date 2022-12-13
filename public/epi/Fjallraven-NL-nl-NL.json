@@ -1,0 +1,2690 @@
+{
+  "siteName": "Fjallraven",
+  "marketId": "NL",
+  "currencyCode": "EUR",
+  "language": "nl-NL",
+  "homePageUrl": "/nl/nl-nl",
+  "loginPageUrl": "/nl/nl-nl/my-account/login",
+  "accountPageUrl": "https://www.fjallraven.com/nl/nl-nl/my-account/account-overview",
+  "topNavigationMessage": "<a target=\"_blank\" href=\"https://www.fjallraven.com/nl/nl-nl/klantenservice/verzenden\"><strong>Gratis verzending boven &euro; 100</strong></a>",
+  "stickyFlag": {
+    "hoverLabel": "Our Heritage",
+    "content": "<img src=\"https://www.fjallraven.com/4a5a97/contentassets/f6bd9e7070854e8e8bc7466993bb994a/men_with_backpack.jpg\" alt=\"Man with backpack\" width=\"500\" height=\"500\" />\n<div class=\"flag--content\">\n<p style=\"font-size: 28px;\"><strong>It all started with a backpack</strong></p>\n<p><em>Since 1960, nature's been in our DNA<br /><br /></em>Fj&auml;llr&auml;ven began in one man&rsquo;s basement and then branched out all over the world. But our original goal hasn&rsquo;t changed: to inspire and enable more people to walk with nature. Follow our journey from backpacks and tents to sustainable development and events.</p>\n</div>"
+  },
+  "currentMarket": {
+    "flag": "flag-icon-nl",
+    "marketName": "Netherlands",
+    "currencySymbol": "€",
+    "defaultLanguage": "Dutch (Netherlands)",
+    "hideUrl": true,
+    "languageUrlDictionary": {
+      "dutch (Netherlands)": "/nl/nl-nl"
+    }
+  },
+  "regionSelector": {
+    "welcomeBlock": {
+      "image": "/498ca9/globalassets/save-the-arctic-fox.png",
+      "imageLink": "",
+      "title": "Welkom bij Fjällräven",
+      "subtitle": "Op basis van je locatie, kun je kiezen uit de volgende talen:"
+    },
+    "selectRegionBlock": {
+      "image": null,
+      "imageLink": null,
+      "title": null,
+      "subtitle": null
+    },
+    "selectLanguageBlock": {
+      "image": null,
+      "imageLink": null,
+      "title": null,
+      "subtitle": null
+    },
+    "currentPageUrl": "",
+    "currentMarketViewModel": {
+      "flag": "flag-icon-nl",
+      "marketName": "Nederland",
+      "currencySymbol": "€",
+      "defaultLanguage": "Dutch (Netherlands)",
+      "hideUrl": true,
+      "languageUrlDictionary": {
+        "dutch (Netherlands)": "/nl/nl-nl"
+      }
+    },
+    "marketGroups": [
+      {
+        "groupDisplayName": "Europa\n",
+        "groupName": "Europe",
+        "availableMarkets": [
+          {
+            "flag": "flag-icon-de",
+            "marketName": "Duitsland",
+            "currencySymbol": "€",
+            "defaultLanguage": "German (Germany)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "german (Germany)": "/de/de-de"
+            }
+          },
+          {
+            "flag": "flag-icon-dk",
+            "marketName": "Denmark",
+            "currencySymbol": "kr.",
+            "defaultLanguage": "Danish (Denmark)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "danish (Denmark)": "/dk/da-dk"
+            }
+          },
+          {
+            "flag": "flag-icon-eu",
+            "marketName": "Europa",
+            "currencySymbol": "€",
+            "defaultLanguage": "English (United Kingdom)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "english (United Kingdom)": "/eu/en-gb"
+            }
+          },
+          {
+            "flag": "flag-icon-fi",
+            "marketName": "Finland",
+            "currencySymbol": "€",
+            "defaultLanguage": "Finnish (Finland)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "finnish (Finland)": "/fi/fi-fi"
+            }
+          },
+          {
+            "flag": "flag-icon-fr",
+            "marketName": "Frankrijk",
+            "currencySymbol": "€",
+            "defaultLanguage": "French (France)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "french (France)": "/fr/fr-fr"
+            }
+          },
+          {
+            "flag": "flag-icon-nl",
+            "marketName": "Nederland",
+            "currencySymbol": "€",
+            "defaultLanguage": "Dutch (Netherlands)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "dutch (Netherlands)": "/nl/nl-nl"
+            }
+          },
+          {
+            "flag": "flag-icon-no",
+            "marketName": "Noorwegen",
+            "currencySymbol": "kr",
+            "defaultLanguage": "Norwegian",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "norwegian": "/no/no"
+            }
+          },
+          {
+            "flag": "flag-icon-se",
+            "marketName": "Zweden",
+            "currencySymbol": "kr",
+            "defaultLanguage": "Swedish (Sweden)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "swedish (Sweden)": "/se/sv-se"
+            }
+          },
+          {
+            "flag": "flag-icon-gb",
+            "marketName": "Groot-Brittannië",
+            "currencySymbol": "£",
+            "defaultLanguage": "English (United Kingdom)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "english (United Kingdom)": "/uk/en-gb"
+            }
+          }
+        ]
+      },
+      {
+        "groupDisplayName": "Noord-Amerika",
+        "groupName": "NorthAmerica",
+        "availableMarkets": [
+          {
+            "flag": "flag-icon-ca",
+            "marketName": "Canada",
+            "currencySymbol": "$",
+            "defaultLanguage": "English (Canada)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "english (Canada)": "/ca/en-ca",
+              "french (Canada)": "/ca/fr-ca"
+            }
+          },
+          {
+            "flag": "flag-icon-us",
+            "marketName": "USA",
+            "currencySymbol": "$",
+            "defaultLanguage": "English (United States)",
+            "hideUrl": true,
+            "languageUrlDictionary": {
+              "english (United States)": "/us/en-us"
+            }
+          }
+        ]
+      },
+      {
+        "groupDisplayName": "Azië",
+        "groupName": "Asia",
+        "availableMarkets": [
+          {
+            "flag": "flag-icon-hk",
+            "marketName": "Azië - Pacifisch gebied",
+            "currencySymbol": "$",
+            "defaultLanguage": "English (United Kingdom)",
+            "hideUrl": false,
+            "languageUrlDictionary": {
+              "english (United Kingdom)": "http://www.fjallravenasia.com"
+            }
+          },
+          {
+            "flag": "flag-icon-cn",
+            "marketName": "China",
+            "currencySymbol": "¥",
+            "defaultLanguage": "English (United Kingdom)",
+            "hideUrl": false,
+            "languageUrlDictionary": {
+              "english (United Kingdom)": "http://www.fjallraven.cn"
+            }
+          },
+          {
+            "flag": "flag-icon-kr",
+            "marketName": "Zuid-Korea",
+            "currencySymbol": "₩",
+            "defaultLanguage": "English (United Kingdom)",
+            "hideUrl": false,
+            "languageUrlDictionary": {
+              "english (United Kingdom)": "http://www.fjallraven.co.kr"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "showBackToTopArrow": false,
+  "topNavigationSiteLinks": [
+    {
+      "icon": "/4abd6f/globalassets/material-icons/icon_organic.png",
+      "htmlIcon": "",
+      "label": "Duurzaamheid",
+      "ariaLabel": null,
+      "link": "https://www.fjallraven.com/nl/nl-nl/over-ons/duurzaamheid",
+      "openContentInNewTab": false
+    },
+    {
+      "icon": null,
+      "htmlIcon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 34 34\" class=\"locator-link--icon\"> <path d=\"M17,34a1,1,0,0,1-1-1V29a1,1,0,0,1,2,0v4A1,1,0,0,1,17,34Z\"></path> <path d=\"M17,0A17,17,0,1,0,34,17,17,17,0,0,0,17,0Zm0,32A15,15,0,0,1,16,2.05V5a1,1,0,0,0,2,0V2.05A15,15,0,0,1,32,16H29a1,1,0,0,0,0,2H32A15,15,0,0,1,17,32Z\"></path> <path class=\"locator-link--arrow\" d=\"M14,14h0L7.69,26.31,20,20h0L26,8,14,14Zm-1.69,7.69,3.18-6.2,3,3Z\"></path> <path d=\"M5,18H1a1,1,0,0,1,0-2H5a1,1,0,0,1,0,2Z\"></path> </svg>",
+      "label": "Zoek Winkel",
+      "ariaLabel": null,
+      "link": "https://www.fjallraven.com/nl/nl-nl/klantenservice/store-locator",
+      "openContentInNewTab": false
+    }
+  ],
+  "mainMenu": {
+    "desktopMenuItems": [
+      {
+        "menuName": "Mannen",
+        "menuStyle": "Style2",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/nl/nl-nl/mannen",
+        "children": [
+          {
+            "menuName": "Fjällräven/Specialized",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/mannen/fjallraven-specialized",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/nl/nl-nl/mannen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Nieuwe producten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/mannen/nieuwe-producten",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/nl/nl-nl/mannen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Jassen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/mannen/jassen",
+            "children": [
+              {
+                "menuName": "Winterjassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/jassen/winterjassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Donsjassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/jassen/donsjassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Parkas",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/jassen/parkas",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Outdoorjassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/jassen/outdoorjassen-voor-dagelijks-gebruik",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Trekking jassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/jassen/trekking-jassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Shell-jassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/jassen/shell-jassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Mountaineering jassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/jassen/mountaineering-jassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Jachtjassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/jassen/jachtjassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Anoraks",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/jassen/anoraks",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Vesten",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/jassen/vesten",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/nl/nl-nl/mannen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Broeken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/mannen/broeken",
+            "children": [
+              {
+                "menuName": "Trekking broeken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/broeken/trekking-broeken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Outdoorbroeken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/broeken/outdoorbroeken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Shell-broeken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/broeken/shell-broeken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Jachtbroeken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/broeken/jachtbroeken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Mountaineering broeken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/broeken/mountaineering-broeken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Wandelleggings",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/broeken/wandelleggings",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Lange onderbroeken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/broeken/lange-onderbroeken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Isolerende broeken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/broeken/isolerende-broeken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Shorts",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/broeken/shorts",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/nl/nl-nl/mannen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Bovenstukken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/mannen/bovenstukken",
+            "children": [
+              {
+                "menuName": "Fleeces",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/bovenstukken/fleeces",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Truien en gebreide kleding",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/bovenstukken/truien-en-gebreide-kleding",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Shirts",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/bovenstukken/shirts",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "T-shirts en topjes",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/bovenstukken/t-shirts-en-topjes",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Ondershirts",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/bovenstukken/ondershirts",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/nl/nl-nl/mannen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/mannen/accessoires",
+            "children": [
+              {
+                "menuName": "Petten en hoeden en beanies",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/accessoires/petten-en-hoeden-en-beanies",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Riemen en bretels",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/accessoires/riemen-en-bretels",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Verzorgingsproducten",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/accessoires/verzorgingsproducten",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Andere accessoires",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/mannen/accessoires/andere-accessoires",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+                  "imageLink": "/nl/nl-nl/mannen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/nl/nl-nl/mannen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          }
+        ],
+        "imageData": {
+          "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+          "imageLink": "/nl/nl-nl/mannen/broeken",
+          "imageText": "Broeken",
+          "imageTextColor": "featured-image-text"
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Vrouwen",
+        "menuStyle": "Style2",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/nl/nl-nl/vrouwen",
+        "children": [
+          {
+            "menuName": "Fjällräven/Specialized",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/vrouwen/fjallraven-specialized",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/nl/nl-nl/vrouwen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Nieuwe producten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/vrouwen/nieuwe-producten",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/nl/nl-nl/vrouwen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Jassen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/vrouwen/jassen",
+            "children": [
+              {
+                "menuName": "Winterjassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/jassen/winterjassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Donsjassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/jassen/donsjassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Parkas",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/jassen/parkas",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Outdoorjassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/jassen/outdoorjassen-voor-dagelijks-gebruik",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Trekking jassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/jassen/trekking-jassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Shell-jassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/jassen/shell-jassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Mountaineering jassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/jassen/mountaineering-jassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Jachtjassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/jassen/jachtjassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Anoraks",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/jassen/anoraks",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Vesten",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/jassen/vesten",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/nl/nl-nl/vrouwen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Broeken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/vrouwen/broeken",
+            "children": [
+              {
+                "menuName": "Trekking broeken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/broeken/trekking-broeken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Outdoorbroeken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/broeken/outdoorbroeken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Shell-broeken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/broeken/shell-broeken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Jachtbroeken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/broeken/jachtbroeken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Mountaineering broeken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/broeken/mountaineering-broeken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Wandelleggings",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/broeken/wandelleggings",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Lange onderbroeken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/broeken/lange-onderbroeken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Isolerende broeken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/broeken/isolerende-broeken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Shorts en rokken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/broeken/shorts-en-rokken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/nl/nl-nl/vrouwen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Bovenstukken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/vrouwen/bovenstukken",
+            "children": [
+              {
+                "menuName": "Fleeces",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/bovenstukken/fleeces",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Truien en gebreide kleding",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/bovenstukken/truien-en-gebreide-kleding",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Shirts",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/bovenstukken/shirts",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "T-shirts en topjes",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/bovenstukken/t-shirts-en-topjes",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Ondershirts",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/bovenstukken/ondershirts",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Jurken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/bovenstukken/jurken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/nl/nl-nl/vrouwen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/vrouwen/accessoires",
+            "children": [
+              {
+                "menuName": "Petten en hoeden en beanies",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/accessoires/petten-en-hoeden-en-beanies",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Riemen en bretels",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/accessoires/riemen-en-bretels",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Verzorgingsproducten",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/accessoires/verzorgingsproducten",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Andere accessoires",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/vrouwen/accessoires/andere-accessoires",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+                  "imageLink": "/nl/nl-nl/vrouwen/broeken",
+                  "imageText": "Broeken",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/nl/nl-nl/vrouwen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          }
+        ],
+        "imageData": {
+          "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+          "imageLink": "/nl/nl-nl/vrouwen/broeken",
+          "imageText": "Broeken",
+          "imageTextColor": "featured-image-text"
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Tassen & uitrusting",
+        "menuStyle": "Style2",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/nl/nl-nl/tassen-uitrusting",
+        "children": [
+          {
+            "menuName": "Fjällräven/Specialized",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/tassen-uitrusting/fjallraven-specialized",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/nl/nl-nl/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Nieuwe producten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/tassen-uitrusting/nieuwe-producten",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/nl/nl-nl/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Kånken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/tassen-uitrusting/kanken",
+            "children": [
+              {
+                "menuName": "Kånken rugzakken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/kanken/kanken-rugzakken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Kånken accessoires",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/kanken/kanken-accessoires",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Save the Arctic Fox",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/kanken/save-the-arctic-fox",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/nl/nl-nl/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Rugzakken en tassen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/tassen-uitrusting/rugzakken-en-tassen",
+            "children": [
+              {
+                "menuName": "Rugzakken voor dagelijks gebruik",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/rugzakken-en-tassen/rugzakken-voor-dagelijks-gebruik",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Laptoptassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/rugzakken-en-tassen/laptoptassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Schoudertassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/rugzakken-en-tassen/schoudertassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Trekking rugzakken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/rugzakken-en-tassen/trekking-rugzakken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Jacht Rugzakken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/rugzakken-en-tassen/jacht-rugzakken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Mountaineering rugzakken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/rugzakken-en-tassen/mountaineering-rugzakken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Heuptassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/rugzakken-en-tassen/heuptassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Reistassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/rugzakken-en-tassen/reistassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/nl/nl-nl/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/tassen-uitrusting/accessoires",
+            "children": [
+              {
+                "menuName": "Rugzakken en tassen accessoires",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/accessoires/rugzakken-en-tassen-accessoires",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Portemonnees en kleine tassen",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/accessoires/portemonnees-en-kleine-tassen",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Reisaccessoires",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/accessoires/reisaccessoires",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Jachtuitrusting",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/accessoires/jachtuitrusting",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/nl/nl-nl/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          },
+          {
+            "menuName": "Tenten & slaapzakken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/tassen-uitrusting/tenten-slaapzakken",
+            "children": [
+              {
+                "menuName": "Tenten",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/tenten-slaapzakken/tenten",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Tentaccessoires",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/tenten-slaapzakken/tentaccessoires",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              },
+              {
+                "menuName": "Slaapzakken",
+                "menuStyle": "Style1",
+                "hasVerticalDevider": false,
+                "urls": [],
+                "contentUrl": "/nl/nl-nl/tassen-uitrusting/tenten-slaapzakken/slaapzakken",
+                "children": [],
+                "imageData": {
+                  "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+                  "imageLink": "/nl/nl-nl/kanken-me",
+                  "imageText": "Kånken Me",
+                  "imageTextColor": "featured-image-text"
+                },
+                "hasChildren": false
+              }
+            ],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/nl/nl-nl/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": true
+          }
+        ],
+        "imageData": {
+          "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+          "imageLink": "/nl/nl-nl/kanken-me",
+          "imageText": "Kånken Me",
+          "imageTextColor": "featured-image-text"
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Kinderen",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/nl/nl-nl/kinderen",
+        "children": [
+          {
+            "menuName": "Nieuwe producten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/kinderen/nieuwe-producten",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Rugzakken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/kinderen/rugzakken",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Jassen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/kinderen/jassen",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Broeken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/kinderen/broeken",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Bovenstukken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/kinderen/bovenstukken",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/kinderen/accessoires",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Onze avonturen",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/nl/nl-nl/onze-avonturen",
+        "children": [
+          {
+            "menuName": "Foxtrail",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://foxtrail.fjallraven.com/",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Classic",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://classic.fjallraven.com/",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Polar",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://polar.fjallraven.com/",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "The Arctic Fox Initiative",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/over-ons/funding",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      }
+    ],
+    "mobileMenuItems": [
+      {
+        "menuName": "Mannen",
+        "menuStyle": "Style2",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/nl/nl-nl/mannen",
+        "children": [
+          {
+            "menuName": "Fjällräven/Specialized",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/mannen/fjallraven-specialized",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/nl/nl-nl/mannen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Nieuwe producten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/mannen/nieuwe-producten",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/nl/nl-nl/mannen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Jassen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/mannen/jassen",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/nl/nl-nl/mannen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Broeken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/mannen/broeken",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/nl/nl-nl/mannen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Bovenstukken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/mannen/bovenstukken",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/nl/nl-nl/mannen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/mannen/accessoires",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+              "imageLink": "/nl/nl-nl/mannen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_m.png",
+          "imageLink": "/nl/nl-nl/mannen/broeken",
+          "imageText": "Broeken",
+          "imageTextColor": "featured-image-text"
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Vrouwen",
+        "menuStyle": "Style2",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/nl/nl-nl/vrouwen",
+        "children": [
+          {
+            "menuName": "Fjällräven/Specialized",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/vrouwen/fjallraven-specialized",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/nl/nl-nl/vrouwen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Nieuwe producten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/vrouwen/nieuwe-producten",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/nl/nl-nl/vrouwen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Jassen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/vrouwen/jassen",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/nl/nl-nl/vrouwen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Broeken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/vrouwen/broeken",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/nl/nl-nl/vrouwen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Bovenstukken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/vrouwen/bovenstukken",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/nl/nl-nl/vrouwen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/vrouwen/accessoires",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+              "imageLink": "/nl/nl-nl/vrouwen/broeken",
+              "imageText": "Broeken",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": "/492d85/globalassets/fjallraven/eu/menu-images/fjr_ss22_menu_trousers_w.png",
+          "imageLink": "/nl/nl-nl/vrouwen/broeken",
+          "imageText": "Broeken",
+          "imageTextColor": "featured-image-text"
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Tassen & uitrusting",
+        "menuStyle": "Style2",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/nl/nl-nl/tassen-uitrusting",
+        "children": [
+          {
+            "menuName": "Fjällräven/Specialized",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/tassen-uitrusting/fjallraven-specialized",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/nl/nl-nl/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Nieuwe producten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/tassen-uitrusting/nieuwe-producten",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/nl/nl-nl/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Kånken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/tassen-uitrusting/kanken",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/nl/nl-nl/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Rugzakken en tassen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/tassen-uitrusting/rugzakken-en-tassen",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/nl/nl-nl/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/tassen-uitrusting/accessoires",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/nl/nl-nl/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Tenten & slaapzakken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/tassen-uitrusting/tenten-slaapzakken",
+            "children": [],
+            "imageData": {
+              "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+              "imageLink": "/nl/nl-nl/kanken-me",
+              "imageText": "Kånken Me",
+              "imageTextColor": "featured-image-text"
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": "/4915e6/globalassets/fjallraven/eu/menu-images/fjr_ss22_kankenmemini_menu.png",
+          "imageLink": "/nl/nl-nl/kanken-me",
+          "imageText": "Kånken Me",
+          "imageTextColor": "featured-image-text"
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Kinderen",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/nl/nl-nl/kinderen",
+        "children": [
+          {
+            "menuName": "Nieuwe producten",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/kinderen/nieuwe-producten",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Rugzakken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": true,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/kinderen/rugzakken",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Jassen",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/kinderen/jassen",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Broeken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/kinderen/broeken",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Bovenstukken",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/kinderen/bovenstukken",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Accessoires",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/kinderen/accessoires",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      },
+      {
+        "menuName": "Onze avonturen",
+        "menuStyle": "Style3",
+        "hasVerticalDevider": false,
+        "urls": [],
+        "contentUrl": "/nl/nl-nl/onze-avonturen",
+        "children": [
+          {
+            "menuName": "Foxtrail",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://foxtrail.fjallraven.com/",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Classic",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://classic.fjallraven.com/",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "Polar",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "https://polar.fjallraven.com/",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          },
+          {
+            "menuName": "The Arctic Fox Initiative",
+            "menuStyle": "Style1",
+            "hasVerticalDevider": false,
+            "urls": [],
+            "contentUrl": "/nl/nl-nl/over-ons/funding",
+            "children": [],
+            "imageData": {
+              "imageUrl": null,
+              "imageLink": null,
+              "imageText": null,
+              "imageTextColor": null
+            },
+            "hasChildren": false
+          }
+        ],
+        "imageData": {
+          "imageUrl": null,
+          "imageLink": null,
+          "imageText": null,
+          "imageTextColor": null
+        },
+        "hasChildren": true
+      }
+    ],
+    "backgroundColor": null
+  },
+  "miniCart": {
+    "checkoutPageUrl": "/nl/nl-nl/checkout",
+    "checkoutLabel": "Betalen",
+    "weAcceptLabel": "We aanvaarden:",
+    "paymentMethodImageUrls": [
+      "/4990f5/globalassets/cartcheckout-logos/visa.png",
+      "/4990f5/globalassets/cartcheckout-logos/mastercard.png",
+      "/4990f5/globalassets/cartcheckout-logos/maestro.png",
+      "/499478/globalassets/cartcheckout-logos/ideal-logo-30px-outline.png",
+      "/4990f5/globalassets/cartcheckout-logos/apple-pay.png"
+    ],
+    "yourCartLabel": "Uw winkelmandje\n",
+    "quantityLabel": "Qty",
+    "shippingCalculatedAtCheckoutLabel": "Verzending berekend bij het afrekenen",
+    "taxCalculatedAtCheckoutLabel": "Belasting berekend bij het afrekenen",
+    "subTotalLabel": "Subtotaal",
+    "discountLabel": "Korting",
+    "totalLabel": "Totaal\n",
+    "vatIncludedLabel": "(Inclusief btw)",
+    "maxQuantity": 10
+  },
+  "footer": {
+    "mobileText": "",
+    "footerLogoAriaLabel": null,
+    "firstColumn": {
+      "label": "Klantenservice",
+      "footerItems": [
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Contact",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/klantenservice/contact",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "FAQ",
+          "ariaLabel": null,
+          "linkUrl": "https://support.fjallraven.com/hc/nl",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Verzenden",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/klantenservice/verzenden",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Retourzendingen",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/klantenservice/Retourzendingen",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Betalen",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/klantenservice/betalen",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Aankoopgids Producten",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/klantenservice/onze-aankoopsgidsen",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Care & Repair",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/klantenservice/care-repair",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Maattabel",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/klantenservice/maattabel",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "desktopHeight": 20,
+          "mobileHeight": 0
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 34 34\" class=\"locator-link--icon\"> <path d=\"M17,34a1,1,0,0,1-1-1V29a1,1,0,0,1,2,0v4A1,1,0,0,1,17,34Z\"></path> <path d=\"M17,0A17,17,0,1,0,34,17,17,17,0,0,0,17,0Zm0,32A15,15,0,0,1,16,2.05V5a1,1,0,0,0,2,0V2.05A15,15,0,0,1,32,16H29a1,1,0,0,0,0,2H32A15,15,0,0,1,17,32Z\"></path> <path class=\"locator-link--arrow\" d=\"M14,14h0L7.69,26.31,20,20h0L26,8,14,14Zm-1.69,7.69,3.18-6.2,3,3Z\"></path> <path d=\"M5,18H1a1,1,0,0,1,0-2H5a1,1,0,0,1,0,2Z\"></path> </svg>",
+          "label": "Zoek Winkel",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/klantenservice/store-locator",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        }
+      ]
+    },
+    "secondColumn": {
+      "label": "Over Fjällräven",
+      "footerItems": [
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Over ons",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/over-ons",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Duurzaamheid",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/over-ons/duurzaamheid",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Onze materialen",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/over-ons/stoffen",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Career",
+          "ariaLabel": null,
+          "linkUrl": "https://career.fjallraven.com/",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Press Room",
+          "ariaLabel": null,
+          "linkUrl": "https://www.press.fjallraven.com/",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Covid-19",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/fjallraven-statement-covid19",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "desktopHeight": 15,
+          "mobileHeight": 21
+        }
+      ]
+    },
+    "thirdColumn": {
+      "label": "Legal",
+      "footerItems": [
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Algemene voorwaarden",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/legal/algemene-voorwaarden",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Juridische mededeling",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/legal/juridische-mededeling",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Kennisgeving gegevensbescherming",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/legal/cookies-veiligheid-persoonlijke-informatie",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        }
+      ]
+    },
+    "fourthColumn": {
+      "label": "Onze avonturen",
+      "footerItems": [
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Fjällräven Polar",
+          "ariaLabel": null,
+          "linkUrl": "https://polar.fjallraven.com/",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "Fjällräven Classic",
+          "ariaLabel": null,
+          "linkUrl": "https://classic.fjallraven.com/",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "The Foxtrail-blog",
+          "ariaLabel": null,
+          "linkUrl": "https://foxtrail.fjallraven.com/",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "",
+          "label": "The Arctic Fox Initiative",
+          "ariaLabel": null,
+          "linkUrl": "https://www.fjallraven.com/nl/nl-nl/over-ons/funding",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "desktopHeight": 10,
+          "mobileHeight": 0
+        }
+      ]
+    },
+    "socialLinksColumn": {
+      "label": "Social",
+      "footerItems": [
+        {
+          "desktopHeight": 0,
+          "mobileHeight": 40
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 500 500\" class=\"footer--icon\" focusable=\"false\" aria-hidden=\"true\"> <path d=\"M249.7,0.1c-138.1,0-250,111.9-250,250c0,138.1,111.9,250,250,250c138.1,0,250-111.9,250-250 C499.7,112.1,387.8,0.1,249.7,0.1z M323.2,151.8c0,0-24.9,0-34.7,0c-12.3,0-14.8,5-14.8,17.7c0,10.6,0,30.6,0,30.6h49.5l-4.8,53.8 h-44.8v160.7h-64.2v-160h-33.4v-54.5h33.4c0,0,0-7.8,0-42.9C209.4,117,231,96,278.7,96c7.8,0,44.4,0,44.4,0V151.8z\"></path> </svg>",
+          "label": "Fjällräven",
+          "ariaLabel": "Fjällräven Facebook",
+          "linkUrl": "https://www.facebook.com/fjallravennorthamerica",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 500 500\" class=\"footer--icon\" focusable=\"false\" aria-hidden=\"true\"> <circle cx=\"250.3\" cy=\"255.2\" r=\"48.2\"></circle> <path d=\"M362.9,170c-2.6-6.7-5.8-11.6-10.8-16.6c-5.1-5.1-9.9-8.2-16.6-10.8c-5.1-2-12.7-4.3-26.8-5 c-15.2-0.7-19.8-0.8-58.4-0.8c-38.6,0-43.2,0.1-58.4,0.8c-14.1,0.6-21.7,3-26.8,5c-6.7,2.6-11.6,5.8-16.6,10.8 c-5.1,5.1-8.2,9.9-10.8,16.6c-2,5.1-4.3,12.7-5,26.8c-0.7,15.2-0.8,19.8-0.8,58.4c0,38.6,0.1,43.2,0.8,58.4c0.6,14.1,3,21.7,5,26.8 c2.6,6.7,5.8,11.6,10.8,16.6c5.1,5.1,9.9,8.2,16.6,10.8c5.1,2,12.7,4.3,26.8,5c15.2,0.7,19.8,0.8,58.4,0.8 c38.6,0,43.2-0.1,58.4-0.8c14.1-0.6,21.7-3,26.8-5c6.7-2.6,11.6-5.8,16.6-10.8c5.1-5.1,8.2-9.9,10.8-16.6c2-5.1,4.3-12.7,5-26.8 c0.7-15.2,0.8-19.8,0.8-58.4c0-38.6-0.1-43.2-0.8-58.4C367.3,182.7,364.9,175.1,362.9,170z M250.3,329.5c-41,0-74.2-33.2-74.2-74.2 c0-41,33.2-74.2,74.2-74.2c41,0,74.2,33.2,74.2,74.2C324.5,296.2,291.2,329.5,250.3,329.5z M327.4,195.4c-9.6,0-17.3-7.8-17.3-17.3 c0-9.6,7.8-17.3,17.3-17.3c9.6,0,17.3,7.8,17.3,17.3C344.8,187.7,337,195.4,327.4,195.4z\"></path> <path d=\"M250,0C111.9,0,0,111.9,0,250c0,138.1,111.9,250,250,250c138.1,0,250-111.9,250-250C500,111.9,388.1,0,250,0z M393.9,314.8c-0.7,15.4-3.1,25.9-6.7,35.1c-3.7,9.5-8.6,17.6-16.7,25.6c-8,8-16.1,13-25.6,16.7c-9.2,3.6-19.7,6-35.1,6.7 c-15.4,0.7-20.3,0.9-59.6,0.9c-39.3,0-44.2-0.2-59.6-0.9c-15.4-0.7-25.9-3.1-35.1-6.7c-9.5-3.7-17.6-8.6-25.6-16.7 c-8-8-13-16.1-16.7-25.6c-3.6-9.2-6-19.7-6.7-35.1c-0.7-15.4-0.9-20.3-0.9-59.6c0-39.3,0.2-44.2,0.9-59.6 c0.7-15.4,3.1-25.9,6.7-35.1c3.7-9.5,8.6-17.6,16.7-25.6c8-8,16.1-13,25.6-16.7c9.2-3.6,19.7-6,35.1-6.7 c15.4-0.7,20.3-0.9,59.6-0.9c39.3,0,44.2,0.2,59.6,0.9c15.4,0.7,25.9,3.1,35.1,6.7c9.5,3.7,17.6,8.6,25.6,16.7 c8,8,13,16.1,16.7,25.6c3.6,9.2,6,19.7,6.7,35.1c0.7,15.4,0.9,20.3,0.9,59.6C394.8,294.5,394.6,299.4,393.9,314.8z\"></path> </svg>",
+          "label": "Fjällräven",
+          "ariaLabel": "Fjällräven Instagram",
+          "linkUrl": "https://www.instagram.com/fjallraven_na",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "desktopHeight": 21,
+          "mobileHeight": 15
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 500 500\" class=\"footer--icon\" focusable=\"false\" aria-hidden=\"true\"> <path d=\"M249.7,0.1c-138.1,0-250,111.9-250,250c0,138.1,111.9,250,250,250c138.1,0,250-111.9,250-250 C499.7,112.1,387.8,0.1,249.7,0.1z M323.2,151.8c0,0-24.9,0-34.7,0c-12.3,0-14.8,5-14.8,17.7c0,10.6,0,30.6,0,30.6h49.5l-4.8,53.8 h-44.8v160.7h-64.2v-160h-33.4v-54.5h33.4c0,0,0-7.8,0-42.9C209.4,117,231,96,278.7,96c7.8,0,44.4,0,44.4,0V151.8z\"></path> </svg>",
+          "label": "Kånken",
+          "ariaLabel": "Kånken Facebook",
+          "linkUrl": "https://www.facebook.com/kankenbackpack",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        },
+        {
+          "iconUrl": null,
+          "htmlIcon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 500 500\" class=\"footer--icon\" focusable=\"false\" aria-hidden=\"true\"> <circle cx=\"250.3\" cy=\"255.2\" r=\"48.2\"></circle> <path d=\"M362.9,170c-2.6-6.7-5.8-11.6-10.8-16.6c-5.1-5.1-9.9-8.2-16.6-10.8c-5.1-2-12.7-4.3-26.8-5 c-15.2-0.7-19.8-0.8-58.4-0.8c-38.6,0-43.2,0.1-58.4,0.8c-14.1,0.6-21.7,3-26.8,5c-6.7,2.6-11.6,5.8-16.6,10.8 c-5.1,5.1-8.2,9.9-10.8,16.6c-2,5.1-4.3,12.7-5,26.8c-0.7,15.2-0.8,19.8-0.8,58.4c0,38.6,0.1,43.2,0.8,58.4c0.6,14.1,3,21.7,5,26.8 c2.6,6.7,5.8,11.6,10.8,16.6c5.1,5.1,9.9,8.2,16.6,10.8c5.1,2,12.7,4.3,26.8,5c15.2,0.7,19.8,0.8,58.4,0.8 c38.6,0,43.2-0.1,58.4-0.8c14.1-0.6,21.7-3,26.8-5c6.7-2.6,11.6-5.8,16.6-10.8c5.1-5.1,8.2-9.9,10.8-16.6c2-5.1,4.3-12.7,5-26.8 c0.7-15.2,0.8-19.8,0.8-58.4c0-38.6-0.1-43.2-0.8-58.4C367.3,182.7,364.9,175.1,362.9,170z M250.3,329.5c-41,0-74.2-33.2-74.2-74.2 c0-41,33.2-74.2,74.2-74.2c41,0,74.2,33.2,74.2,74.2C324.5,296.2,291.2,329.5,250.3,329.5z M327.4,195.4c-9.6,0-17.3-7.8-17.3-17.3 c0-9.6,7.8-17.3,17.3-17.3c9.6,0,17.3,7.8,17.3,17.3C344.8,187.7,337,195.4,327.4,195.4z\"></path> <path d=\"M250,0C111.9,0,0,111.9,0,250c0,138.1,111.9,250,250,250c138.1,0,250-111.9,250-250C500,111.9,388.1,0,250,0z M393.9,314.8c-0.7,15.4-3.1,25.9-6.7,35.1c-3.7,9.5-8.6,17.6-16.7,25.6c-8,8-16.1,13-25.6,16.7c-9.2,3.6-19.7,6-35.1,6.7 c-15.4,0.7-20.3,0.9-59.6,0.9c-39.3,0-44.2-0.2-59.6-0.9c-15.4-0.7-25.9-3.1-35.1-6.7c-9.5-3.7-17.6-8.6-25.6-16.7 c-8-8-13-16.1-16.7-25.6c-3.6-9.2-6-19.7-6.7-35.1c-0.7-15.4-0.9-20.3-0.9-59.6c0-39.3,0.2-44.2,0.9-59.6 c0.7-15.4,3.1-25.9,6.7-35.1c3.7-9.5,8.6-17.6,16.7-25.6c8-8,16.1-13,25.6-16.7c9.2-3.6,19.7-6,35.1-6.7 c15.4-0.7,20.3-0.9,59.6-0.9c39.3,0,44.2,0.2,59.6,0.9c15.4,0.7,25.9,3.1,35.1,6.7c9.5,3.7,17.6,8.6,25.6,16.7 c8,8,13,16.1,16.7,25.6c3.6,9.2,6,19.7,6.7,35.1c0.7,15.4,0.9,20.3,0.9,59.6C394.8,294.5,394.6,299.4,393.9,314.8z\"></path> </svg>",
+          "label": "Kånken",
+          "ariaLabel": "Kånken Instagram",
+          "linkUrl": "https://www.instagram.com/kankenofficial",
+          "iconAlternateText": null,
+          "openInNewTab": false
+        }
+      ]
+    },
+    "gaOptInText": "Opt-In for Google Tracking",
+    "gaOptOutText": "Opt-Out of Google Tracking",
+    "royalImageUrl": null,
+    "royalImageAlternateText": "",
+    "royalText": null,
+    "showCookiebotOptOutOption": false,
+    "cookiebotOptOutText": null
+  }
+}

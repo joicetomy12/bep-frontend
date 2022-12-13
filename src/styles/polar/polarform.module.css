@@ -1,0 +1,298 @@
+.title {
+  font-weight: 900;
+  font-size: 34px;
+  line-height: 34px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  max-width: 596px;
+  font-family: 'Arctic Fox Headline';
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  border-radius: 4px;
+  background-color: #e5e5e5;
+  font-family: 'Arctic Fox';
+  font-style: normal;
+  color: #6d6d6d;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.03em;
+}
+.cardConfirm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  border-radius: 4px;
+  background-color: #e5e5e5;
+  font-family: 'Arctic Fox';
+  font-style: normal;
+  color: #6d6d6d;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.03em;
+  padding: 100px 145px 180px 145px;
+}
+.firstName {
+  grid-area: firstName;
+  position: relative;
+  width: 235px;
+}
+.lastName {
+  grid-area: lastName;
+  width: 235px;
+}
+.email {
+  grid-area: email;
+  position: relative;
+}
+.instagram {
+  grid-area: instagram;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.country {
+  grid-area: country;
+  width: 235px;
+}
+.birthday {
+  grid-area: birthday;
+  width: 235px;
+}
+.tAndC {
+  grid-area: tAndC;
+}
+.newsSletter {
+  grid-area: newsSletter;
+}
+.buttonParent {
+  grid-area: buttonParent;
+  display: flex;
+  flex-direction: column;
+}
+.formParent {
+  width: 100%;
+  padding: 67px 30px;
+  display: grid;
+  grid-template-areas:
+    'firstName lastName'
+    'email email'
+    'instagram instagram'
+    'country birthday'
+    'tAndC tAndC'
+    'newsSletter newsSletter'
+    'buttonParent buttonParent';
+  gap: 32px;
+}
+.checklistContainerLocal {
+  text-transform: none !important;
+  font-weight: 400 !important;
+  font-size: 16px !important;
+}
+.formParent input {
+  background: #ffffff;
+  border: 1px solid #d2d2d2;
+  border-radius: 4px;
+  padding: 13px;
+  font-weight: 400 !important;
+}
+.error {
+  color: #cc1618;
+  font-family: 'Gothic A1';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  margin-top: 7px;
+}
+.InstagramError {
+  color: #cc1618;
+  font-family: 'Gothic A1';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  margin-top: 7px;
+  max-width: 502px;
+}
+.applyError {
+  color: #cc1618;
+  font-family: 'Gothic A1';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  margin-top: 7px;
+  max-width: 502px;
+}
+.errorInInput {
+  background: #fae8e8 !important;
+  border: 1px solid #e58586 !important;
+}
+.errorInInput::placeholder {
+  color: #e58586 !important;
+}
+.apiError {
+  margin-top: 0px;
+  margin-bottom: 7px;
+}
+.indication {
+  display: none;
+  position: absolute;
+  top: 22px;
+  right: 23px;
+}
+.indicationSvg {
+  display: block !important;
+}
+.Errorindication {
+  display: none;
+  position: absolute;
+  top: 22px;
+  right: 23px;
+}
+.ErrorindicationSvg {
+  display: block !important;
+}
+.inputTextField {
+  max-width: 502px;
+  width: 100%;
+}
+
+.inputTextField .inputTextField:focus {
+  outline: none;
+}
+
+.checkboxText {
+  color: #6d6d6d;
+}
+.termsUnderline {
+  text-decoration: underline;
+}
+
+.button {
+  background: #303030;
+  border-radius: 4px;
+  padding: 16px 24px;
+  border: none;
+}
+.button > span {
+  text-align: center;
+  color: #ffffff;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 14px;
+}
+.countryDropdown {
+  position: relative;
+}
+.dropDownArrow {
+  position: absolute;
+  top: 24px;
+  right: 11px;
+}
+.arrowOpen {
+  display: none;
+}
+.optionsParent {
+  display: none;
+  background-color: #fff;
+  border: 1px solid #d2d2d2;
+
+  margin-top: -1px;
+  max-height: 291px;
+  overflow: auto;
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  z-index: 10;
+}
+
+.options {
+  width: 100%;
+  overflow: auto;
+  height: 100%;
+  cursor: pointer;
+}
+.option {
+  padding: 16px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.03em;
+}
+.open {
+  display: block;
+}
+.confirmationTitle {
+  text-transform: uppercase;
+  font-family: 'Arctic Fox Headline';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  color: #303030;
+  margin-bottom: 30px;
+}
+
+.confirmationSubTitle {
+  max-width: 509px;
+  font-family: 'Arctic Fox';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #303030;
+}
+
+@media (max-width: 767px) {
+  .firstName {
+    width: auto;
+  }
+  .lastName {
+    width: auto;
+  }
+  .country {
+    width: auto;
+  }
+  .birthday {
+    width: auto;
+  }
+  .formParent {
+    grid-template-areas:
+      'firstName firstName'
+      'lastName lastName'
+      'email email'
+      'instagram instagram'
+      'country birthday'
+      'tAndC tAndC'
+      'newsSletter newsSletter'
+      'buttonParent buttonParent';
+  }
+  .formParent input::placeholder {
+    font-size: 12px;
+  }
+  .cardConfirm {
+    padding: 120px 140px 165px 140px;
+  }
+  .confirmationTitle {
+    max-width: 300px;
+  }
+  .confirmationSubTitle {
+    max-width: 300px;
+  }
+  .container {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}

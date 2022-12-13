@@ -1,0 +1,75 @@
+.participateList {
+    padding: 20px;
+    background-color: #fff;
+}
+
+.participatorScroll {
+    max-height: 260px;
+    overflow: auto;
+}
+
+/* width */
+.participatorScroll::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+/* Track */
+.participatorScroll::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+.participatorScroll::-webkit-scrollbar-thumb {
+    background: rgb(196, 196, 196);
+}
+
+/* Handle on hover */
+.participatorScroll::-webkit-scrollbar-thumb:hover {
+    background: rgb(179, 179, 179);
+}
+
+.checkpointOuter {
+    height: 100%;
+    overflow-y: auto;
+    max-height: 380px;
+}
+
+.checkpointOuter::-webkit-scrollbar {
+    width: 5px;
+}
+
+.bgWhite {
+    padding: 20px;
+    background: #fff;
+    height: 100%;
+}
+
+.panelTitle {
+    font-size: 24px;
+}
+
+.shadowBox h2 {
+    font-size: 24px;
+}
+
+.shadowBox h4 {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+}
+
+@media (max-width: 480px) {
+    .participateList {
+        margin-top: 30px;
+    }
+
+    .mapContainer {
+        padding: 0px 15px !important;
+        margin-bottom: 20px;
+    }
+
+    .checkContainer {
+        padding: 0px 15px !important;
+    }
+}

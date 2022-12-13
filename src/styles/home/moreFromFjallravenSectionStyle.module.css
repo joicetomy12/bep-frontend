@@ -1,0 +1,92 @@
+.communityUpdateSection {
+    padding-bottom: 0px;
+}
+
+.communityUpdateSection img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.bigImage {
+    height: 100%;
+}
+
+.imageBox {
+    position: relative;
+    border-radius: 5px;
+    overflow: hidden;
+    /* background: #272622; */
+}
+.imageBoxMaxHeight{
+    max-height: 341px;
+}
+
+.bottomDiv {
+    position: absolute;
+    bottom: 0;
+    padding: 20px;
+}
+
+.bottomDiv span {
+    font-weight: bold;
+    font-size: 12px;
+    color: #fff;
+    background: #3f6289;
+    border-radius: 4px;
+    padding: 1px 8px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.bottomDiv h3 {
+    color: #fff;
+    margin: 10px 0 15px;
+    font-size: 20px;
+}
+
+.bottomDiv a {
+    width: max-content;
+    font-size: 14px;
+    min-width: auto;
+    font-style: normal;
+    font-weight: bold;
+    padding: 10px 24px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 48px rgb(0 0 0 / 8%);
+    border-radius: 4px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #303030;
+    text-transform: uppercase;
+}
+
+@media (max-width: 768px) {
+    .bottomDiv h3 {
+        font-size: 30px;
+    }
+    .communityUpdateSection img{
+        object-fit: cover;
+    }
+}
+
+@media (max-width: 767px) {
+    .imageBox {
+        margin-bottom: 1rem !important;
+
+    }
+
+    .bottomDiv h3 {
+        font-size: 20px;
+    }
+
+    .imageBox img {
+        width: 100%;
+        min-height: 200px;
+    }
+}
+
+.imageBox:hover img {
+    transform: scale(1.05);
+}
+

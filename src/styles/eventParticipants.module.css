@@ -1,0 +1,75 @@
+.peopleSmallCard {
+  display: flex;
+  flex-direction: wrap;
+  width: 100%;
+  align-items: center;
+  align-items: center;
+  padding-bottom: 13px;
+  border-bottom: 1px solid #d2d2d2;
+  margin-bottom: 14px;
+}
+.peopleSmallCard:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.peopleSmallCard > img {
+  width: 64px !important;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+.peopleSmallCard h2 {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+.sustainability {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  font-size: 12px;
+  padding: 1px 8px;
+  background-color: #6c7c57;
+  border-radius: 4px;
+  padding: 1px 10px;
+  margin-right: 5px;
+}
+
+.sustainability > span {
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 12px;
+  line-height: 100%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.flagImg {
+  vertical-align: sub;
+}
+.location {
+  color: #303030;
+  font-family: 'Arctic Fox';
+  font-weight: bold;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 100%;
+  text-transform: uppercase;
+  margin-left: 8px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  border-radius: 4px;
+  font-size: 12px;
+  color: #303030;
+  align-items: center;
+  border-radius: 4px;
+}
+.defaultParticipantIcon{
+  width: auto !important;
+  height: auto !important;
+  border-radius: initial !important;
+}

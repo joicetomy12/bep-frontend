@@ -1,0 +1,230 @@
+.bigImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.centerDiv {
+  position: absolute;
+  right: 0;
+  left: 0;
+  height: max-content;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  text-align: center;
+  max-width: 90%;
+  text-align: center;
+}
+.centerDiv h3 {
+  color: #fff;
+  font-weight: 900;
+  font-size: 34px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: 'Arctic Fox Headline';
+}
+.centerDiv p {
+  font-size: 20px;
+  color: #fff;
+  padding: 0 10px;
+}
+.descText h3 {
+  font-weight: normal;
+  font-size: 20px;
+  letter-spacing: 0.01em;
+  color: #303030;
+}
+.descText p {
+  align-items: center;
+  letter-spacing: 0.04em;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 20px;
+  color: #000000;
+  border-radius: 4px;
+}
+
+.shopImage {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.shopBox h2 {
+  font-weight: 900;
+  font-size: 34px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 34px;
+  font-family: 'Arctic Fox Headline';
+}
+.shopBox h4 {
+  font-size: 20px;
+}
+.shopBox p {
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 20px;
+  padding-right: 29px;
+  letter-spacing: 0.04em;
+}
+.shopBox {
+  background: #fff;
+  padding: 50px;
+  min-height: auto;
+  max-height: 592px;
+  border-radius: 4px;
+  margin-left: 14px;
+}
+.shopBox a {
+  min-width: auto;
+}
+.shopBox img {
+  width: 100%;
+}
+
+.shopPadding {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -28px;
+  margin-top: 2rem!important;
+}
+@media (max-width: 768px) {
+  .shopBox {
+    padding: 20px;
+  }
+}
+@media (min-width: 780px) {
+  .shopFlex {
+    height: 266px;
+  }
+}
+@media (max-width: 480px) {
+  .shopBox .shopFlex {
+    display: block !important;
+    width: 100%;
+  }
+  .bigImage {
+    width: 100%;
+    height: 100%;
+    min-height: 380px;
+  }
+  .width100 {
+    width: 100% !important;
+  }
+  .shopBox h2 {
+    font-size: 28px;
+  }
+  .shopBox img {
+    max-height: 142px;
+    object-fit: contain;
+  }
+  .shopBox {
+    background: #fff;
+    padding: 50px;
+    min-height: auto;
+    max-height: 592px;
+    border-radius: 4px;
+    margin-left: 14px;
+    margin-bottom: 10px
+  }
+}
+/* The container */
+.radioContainer {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 25px;
+  height: 25px;
+  padding: 0;
+  margin-right: 10px;
+}
+
+/* Hide the browser's default radio button */
+.radioContainer input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Create a custom radio button */
+.checkMark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkMark:after {
+  content: '';
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.radioContainer input:checked ~ .checkMark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.radioContainer .checkMark:after {
+  top: 9px;
+  left: 9px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+}
+.color1 {
+  background-color: #005761;
+}
+.color2 {
+  background-color: #003f4f;
+}
+.color3 {
+  background-color: #222a2a;
+}
+.color4 {
+  background-color: #000000;
+}
+.color5 {
+  background-color: #57282d;
+}
+.primaryBtn {
+  width: max-content;
+  font-size: 14px;
+  min-width: auto;
+  font-style: normal;
+  font-weight: bold;
+  padding: 10px 24px;
+  -webkit-box-shadow: 0px 0px 48px rgb(0 0 0 / 8%);
+  box-shadow: 0px 0px 48px rgb(0 0 0 / 8%);
+  border-radius: 4px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #303030;
+  text-transform: uppercase;
+}
+@media screen and (min-device-width:753px) and (max-device-width: 868px) { 
+  .primaryBtn {
+    position: absolute;
+    right:16px;
+  }
+}

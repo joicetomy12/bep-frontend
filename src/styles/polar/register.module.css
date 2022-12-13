@@ -1,0 +1,544 @@
+.card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  max-width: 100%;
+  align-items: stretch !important;
+  border-radius: 4px;
+  overflow: hidden;
+  height: 465px;
+}
+
+.buttun {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  transition: .2s ease;
+}
+
+.blackbuttun {
+  background: #303030;
+  color: #fff!important;
+  text-transform: uppercase;
+  padding: 10px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: max-content;
+  -webkit-transition: .2s ease;
+  transition: .2s ease;
+  height: 44px;
+  border-radius: 4px;
+}
+.buttun:hover {
+
+  transform: translateY(-3px);
+}
+.blackbuttun > a {
+  font-family: 'Arctic Fox';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  text-align: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  margin: 0;
+  color: #ffffff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.blackbuttun > a:hover {
+  color: white;
+}
+@media (max-width: 767px) {
+  .card {
+    flex-direction: column;
+  }
+}
+
+.cardBody {
+  width: 50%;
+  background-color: #e5e5e4;
+  text-align: center;
+}
+
+@media (max-width: 786px) {
+  .cardBody {
+    width: 100%;
+    height: 394px;
+  }
+}
+
+.cardTitle {
+  width: 526px;
+  /* position: absolute; */
+  height: 29px;
+  font-family: 'Arctic Fox';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 120%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 9px;
+  text-align: center;
+  letter-spacing: -0.01em;
+  top: 184px;
+  /* Common / Black */
+
+  color: #303030;
+
+  border-radius: 4px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+/* .card img {
+    width: 50px;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: calc(0.25rem - 1px);
+    cursor: pointer;
+    position: absolute;
+    right: 1%;
+  } */
+.modalArrow {
+  width: 50px;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: calc(0.25rem - 1px);
+  cursor: pointer;
+  -webkit-appearance: none;
+
+  margin-top: 18px;
+  margin-right: 20px;
+  height: 18.23910140991211px;
+  position: absolute;
+  right: 0;
+}
+
+@media screen and (min-device-width: 1201px) and (max-device-width: 2500px) {
+  .modalArrow {
+    position: absolute;
+    right: 0;
+  }
+}
+
+.modalArrow:hover {
+  transition: 0.1s ease-in-out;
+  transform: translateX(50%);
+  transition: 1s ease-out;
+  -webkit-appearance: none !important;
+}
+
+.modal_Arrow {
+  width: 50px;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: calc(0.25rem - 1px);
+  cursor: pointer;
+  position: absolute;
+  margin-top: 18px;
+  margin-right: 20px;
+  height: 18.23910140991211px;
+  position: absolute;
+  right: 15px;
+  -webkit-appearance: none;
+}
+
+.modal_Arrow:hover {
+  transition: 0.1s ease-in-out;
+  transform: translateX(50%);
+  transition: 1s ease-out;
+  -webkit-appearance: none !important;
+}
+
+@media (max-width: 768px) {
+  .modal_Arrow:hover {
+    transition: 0.1s ease-in-out;
+    transform: translateX(90%);
+    transition: 1s ease-out;
+  }
+  .cardTitle {
+    width: 350px;
+    font-size: 22px;
+  }
+}
+
+.cardImgTop {
+  background-image: url('/assets/images/sectionThree/sectionthreebackgoundimage.svg');
+  width: 50%;
+  background-size: cover;
+  border-radius: 5px 0px 0px 5px;
+}
+
+.cardButton {
+  max-width: 100%;
+  background: transparent !important;
+  padding: 0 15px 0 0px !important;
+  border: 1px solid #303030 !important;
+  border-radius: 100px;
+  width: max-content;
+  height: 30px;
+}
+
+.cardButton img {
+  margin: 0 2px 0 3px;
+  width: 25px;
+}
+
+.cardBody .cardText {
+  padding: 30px;
+  justify-content: center;
+  /* height: 26px; */
+  font-family: 'Arctic Fox';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  margin-top: 0px;
+  margin-bottom: 31px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.01em;
+  color: #303030;
+  border-radius: 4px;
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+@media (max-width: 752px) {
+  .cardBody .cardText {
+    /* margin-top: 18px;
+    margin-bottom: 20px; */
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  .cardText {
+    /* max-width:300px; */
+    display: flex;
+    justify-content: center;
+    height: auto;
+  }
+  
+}
+@media screen and (min-device-width: 753px) and (max-device-width: 768px) { 
+  .cardBody .cardText {
+    margin-top: 0px;
+    margin-bottom: -9px;
+  }
+}
+.cardCloseBtn {
+  position: absolute;
+  right: 10px;
+  width: 20px;
+  top: 5px;
+  text-align: right;
+}
+
+.cardCloseBtn img {
+  width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+  .cardBody {
+    padding: 4.5em 1.2em;
+  }
+
+  .cardBody .cardText {
+    /* margin: 0; */
+  }
+
+  .card img { 
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .card img {
+    width: 18px;
+    position: absolute;
+  }
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 800px) {
+  .card img {
+    position: absolute;
+    right: 35px;
+    -webkit-appearance: none;
+    -moz-appearance: button;
+    appearance: button;
+  }
+}
+
+/* @media only screen and (max-width:1100px) and  (min-width: 750px) {
+    .card img {
+  right: 54px;
+      
+    }
+    
+  } */
+.condition {
+  width: 391px;
+  height: 60px;
+  font-family: 'Arctic Fox';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.04em;
+  color: #000000;
+  border-radius: 4px;
+  text-align: left;
+  margin-left: 12px;
+}
+
+@media (max-width: 786px) {
+  .condition {
+    width: 259px;
+    padding-top: 40px;
+  }
+}
+
+.emailSection {
+  width: 100%;
+  /* height: 56px; */
+  background-color: #f4f4f4;
+  outline: none;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  font-family: 'Arctic Fox';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  color: rgba(0, 0, 0, 0.6);
+  border: none;
+  padding: 0px 33px 0px 16px;
+  margin-bottom: 0;
+}
+
+.emailSection::placeholder {
+  color: #000;
+  opacity: 0.6;
+}
+
+.emailInput {
+  display: flex;
+  background-color: #f4f4f4;
+  height: 56px;
+  border-radius: 4px;
+  border: 1px solid #e8e7e6;
+  margin-top: 16px;
+  position: relative;
+}
+
+@media (max-width: 786px) {
+  .card img {
+    right: 0;
+  }
+
+  .emailInput {
+    /* width:295px; */
+    margin-top: 24px;
+    margin-bottom: 16px;
+  }
+
+  .emailSection {
+    padding: 0px 40px 0px 16px;
+  }
+}
+
+.terms {
+  display: flex;
+  margin-top: 16px;
+}
+
+@media (max-width: 786px) {
+  .terms {
+  }
+
+  .RightArrow {
+    /* margin-left: 30px;
+        margin-right: 0px; */
+    margin-top: 19px;
+    margin-right: 16px;
+    height: 18.23910140991211px;
+    width: 18px;
+  }
+}
+
+.RightArrow {
+  /* margin-left: 30px;
+      margin-right: 0px; */
+
+  margin-top: 18px;
+  margin-right: 20px;
+  height: 18.23910140991211px;
+  width: 17px;
+  cursor: pointer;
+}
+
+.RightArrow:hover {
+  transition: 0.3s ease-in-out;
+  transform: translateX(1%);
+}
+
+.checkBox {
+  width: 24px;
+  height: 24px;
+}
+
+@media (max-width: 786px) {
+  .cardImgTop {
+    /* width:343px;
+          height:250px; */
+    border-radius: 0 !important;
+    justify-content: center;
+    max-width: 100%;
+    height: 394px;
+    width: 100%;
+  }
+
+  .checkboxDiv {
+    width: 304px;
+  }
+}
+
+.checkboxDiv {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  /* margin-bottom: 12px; */
+  cursor: pointer;
+  font-size: 12px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  white-space: break-spaces;
+  font-family: Arctic Fox;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.04em;
+  text-align: left;
+}
+
+/* Hide the browser's default checkbox */
+.checkboxDiv input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkMark {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  height: 18px;
+  width: 18px;
+  border: 1px solid #000;
+}
+
+/* On mouse-over, add a grey background color */
+.checkboxDiv:hover input ~ .checkMark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.checkboxDiv input:checked ~ .checkMark {
+  background-color: #000;
+}
+
+/* Create the checkMark/indicator (hidden when not checked) */
+.checkMark:after {
+  content: '';
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkMark when checked */
+.checkboxDiv input:checked ~ .checkMark:after {
+  display: block;
+}
+
+/* Style the checkMark/indicator */
+.checkboxDiv .checkMark:after {
+  left: 6px;
+  top: 2px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.formBox {
+  max-width: 604px;
+  margin: 0 auto;
+  position: absolute;
+  /* top: 184px; */
+  text-align: -webkit-center;
+}
+
+.checkboxDiv a {
+  color: #000000;
+  text-decoration: underline;
+}
+@media (max-width: 768px) {
+  .formBox {
+    top: 45px;
+  }
+}
+@media screen and (min-device-width: 481px) and (max-device-width: 992px) { 
+  .cardTitle {
+    width: 100%;
+    /* position: absolute; */
+    height: 29px;
+    font-family: 'Arctic Fox';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 120%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 9px;
+    text-align: center;
+    letter-spacing: -0.01em;
+    /* Common / Black */
+    color: #303030;
+    border-radius: 4px;
+    /* Inside auto layout */
+  
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+  }
+}

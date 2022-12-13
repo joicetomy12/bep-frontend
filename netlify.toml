@@ -1,0 +1,32 @@
+[[redirects]]
+  from = "/eu/en-gb/polar"
+  to = "/polar"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/eu/en-gb"
+  to = "/"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "eu/en-gb/events"
+  to = "/events"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "eu/en-gb/people"
+  to = "/people"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "eu/en-gb/people/:value"
+  to = "/people/:value"
+  status = 301
+  force = true
+
+
+

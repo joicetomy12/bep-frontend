@@ -1,0 +1,23 @@
+.shopBox h3 {
+  font-size: 20px;
+  font-weight: 400;
+}
+.shopBox {
+  background: #fff;
+  padding: 25px;
+}
+.shopBox a {
+  min-width: auto;
+}
+
+.shopBox img {
+      width: 130px;
+      height: 130px;
+      object-fit: contain;
+          max-width: 100%;
+}
+@media(max-width:480px) {
+  .shopBox img{height: 100px;}
+  .shopBtn{margin-top: 10px !important;}
+
+}

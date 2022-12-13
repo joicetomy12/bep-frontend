@@ -1,0 +1,305 @@
+.cardBackgroundImage {
+  position: relative;
+  background-size: cover;
+  overflow: hidden;
+  border-radius: 5px 5px 0 0;
+  min-height: 230px;
+  background: #fff;
+  max-height: 300px;
+}
+
+.FeatureCard:hover .cardBackgroundImage img {
+  transform: scale(1.05);
+}
+
+.cardBackgroundImage img {
+  object-fit: cover;
+  width: 100%;
+  transition: transform 0.5s ease-in-out, -webkit-transform 0.5s ease-in-out;
+}
+.borderdot {
+  z-index: 9;
+  border-bottom: dotted 2px #ccc;
+  border-style: none none dotted;
+}
+.cardBackgroundImage a {
+  min-height: 230px;
+  overflow: hidden;
+}
+
+.cardBackgroundImage a img {
+  object-fit: cover;
+  width: 100%;
+  transition: transform 0.5s ease-in-out, -webkit-transform 0.5s ease-in-out;
+ height: auto;
+ min-height: 300px;
+}
+
+.cardTitle,
+.cardTitle a {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 20px;
+  color: #212529;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: baseline;
+}
+
+.cardTitle a:hover {
+  text-decoration: none;
+}
+
+.cardTitle img {
+  margin-right: 10px;
+  margin-top: -5px;
+}
+
+.cardDescription {
+  font-weight: normal;
+  font-size: 16px;
+  letter-spacing: 0.01em;
+  color: #303030;
+  /* width: 100%; */
+  max-width: 504px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  /* height: 110px; */
+}
+
+.addresCard {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  margin-top: 16px !important;
+}
+
+.addresCard img {
+  vertical-align: bottom;
+}
+
+.sustainability {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  font-size: 12px;
+  position: absolute;
+  background-color: #6c7c57;
+  border-radius: 4px;
+  padding: 1px 10px;
+  bottom: 8%;
+  left: 20px;
+}
+
+.sustainability > span {
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.goToEvent {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  border: none;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 32px;
+  letter-spacing: 0.02em;
+  color: #303030;
+  background-color: #ffffff;
+  align-items: center;
+}
+
+.goToEvent:hover {
+  color: #cc1618;
+  text-decoration: none;
+}
+
+.goToEvent:hover svg {
+  -webkit-transform: translate(10px, 0);
+  transform: translate(10px, 0);
+}
+
+.goToEvent svg {
+  fill: #b93228;
+  stroke: #b93228;
+  transition: transform 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
+}
+
+.cardAbout {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  height: auto;
+  align-self: stretch;
+  margin: 0;
+  background: #fff;
+  padding: 24px;
+  min-height: 300px;
+  /* max-height: 420px; */
+}
+
+.cardAbout button {
+  border: none !important;
+  opacity: 1 !important;
+}
+
+.location {
+  color: #303030;
+  font-size: 12px;
+  line-height: 20px;
+  padding-left: 5px;
+}
+.datetim {
+  /* position: absolute; */
+  top: 50px;
+  padding-left: 28px;
+  color: #303030;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.chevronRightIcon {
+  margin-left: 13px;
+  margin-top: -5px;
+}
+
+.FeatureCard {
+  margin-bottom: 50px;
+}
+
+.goToEvent {
+  /* position: relative;
+  top: 24px; */
+
+  padding-top: 24px;
+  /* padding: 2px; */
+  border: none;
+  padding-bottom: 24px;
+  background: transparent !important;
+}
+
+.fixedCardBottom {
+  /* position: absolute; */
+  bottom: -32px;
+  /* width: 95%; */
+  /* z-index: 10; */
+  background-color: #fff;
+  /* min-height: 111px; */
+  left: 14px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+@media (max-width: 480px) {
+  .fixedCardBottom {
+    width: 93% !important;
+  }
+}
+@media screen and (min-device-width: 781px) and (max-device-width: 1050px) {
+  .fixedCardBottom {
+    width: 94% !important;
+  }
+}
+@media (max-width: 786px) {
+  .addresCard {
+    align-items: baseline;
+  }
+  .cardTitle,
+  .cardTitle a {
+    margin-bottom: 0;
+  }
+  .cardDescription {
+    width: 130px;
+  }
+  .goToEvent {
+    /* margin-top: 24px; */
+  }
+  .addresCard {
+    margin-top: 0;
+  }
+  .fixedCardBottom {
+    position: absolute;
+    bottom: -21px;
+    border-top: none;
+    width: 89%;
+  }
+  .datetim {
+    top: 69px;
+  }
+  .location {
+    width: 175px;
+  }
+  .cardAbout {
+    min-height: 350px;
+  }
+  .cardBackgroundImage a {
+    min-height: auto;
+  }
+  .noneDisplayMobile {
+    display: none;
+  }
+
+  .cardTitle a {
+    padding-bottom: 16px;
+  }
+}
+@media screen and (min-device-width: 481px) and (max-device-width: 768px) {
+  .cardAbout {
+    max-width: 328px;
+  }
+  .fixedCardBottom {
+    max-width: 93%;
+  }
+  .cardBackgroundImage {
+    max-width: 328px;
+    max-height: 230px;
+  }
+  .fixedCardBottom {
+    max-width: 328px;
+  }
+}
+.eventDescriptionEllipsis {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+@media screen and (min-device-width: 834px) and (max-device-width: 900px) {
+  .goToEvent {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 992px)  {
+  .cardAbout {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    height: auto;
+    align-self: stretch;
+    margin: 0;
+    background: #fff;
+    padding: 14px;
+    /* min-height: 362px; */
+    /* min-height: 230px; */
+    min-height: 420px;
+  }
+  .cardBackgroundImage {
+    position: relative;
+    background-size: cover;
+    overflow: hidden;
+    border-radius: 5px 5px 0 0;
+    min-height: 230px;
+    background: #fff;
+    max-height: 230px;
+  }
+}

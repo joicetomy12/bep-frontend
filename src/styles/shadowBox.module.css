@@ -1,0 +1,45 @@
+
+ .shadowBox h2 {
+     font-size: 24px;
+ }
+ .shadowBox h4 {
+     font-weight: bold;
+     font-size: 16px;
+     line-height: 32px;
+ }
+ .shadowBox {
+     background: #F4F4F4;
+     /* Dop shadow */
+
+     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+     border-radius: 4px;
+     padding: 20px;
+ }
+ .shadowBox ul.ulList {
+     padding: 0;
+ }
+ .requiredItem{
+     color: #235F83;
+ }
+  .shadowBox ul.ulList li{padding-left: 20px;list-style: none;position: relative;}
+  .shadowBox ul.ulList li:before {
+        content: "";
+        width: 7px;
+        height: 7px;
+        background-color: #000;
+        display: inline-block;
+        position: absolute;
+        left: 0;
+        border-radius: 100%;
+        top: 8px;
+        }
+ .shadowBox ul.ulCheck li:before {
+                    width: 20px;
+                    height: 20px;
+                    background-image: url(/assets/images/tick.png);
+                    background-color: transparent;
+                    background-size: 13px;
+                    background-position: center center;
+                    background-repeat: no-repeat;
+                    top: 1px;
+        }

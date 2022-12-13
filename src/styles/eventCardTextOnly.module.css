@@ -1,0 +1,119 @@
+.cardBackgroundImage {
+    position: relative;
+    background-size: cover;
+}
+
+.cardBackgroundImage img {
+    max-width: 100%;
+    width: 100%;
+}
+.cardTitle {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+}
+.cardDescription{
+    font-weight: normal;
+    font-size: 16px;
+     letter-spacing: 0.01em;
+     color: #303030;
+     margin-top: 16px;
+     margin-bottom: 32px;
+     width: 100%;
+     border-bottom: 2px dotted #ccc;
+     padding-bottom: 20px;
+     margin-bottom: 10px;
+}
+.addresCard {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    margin-top: 16px;
+}
+
+.addresCard img {
+    vertical-align: baseline;
+}
+.sustainability {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: max-content;
+    font-size: 12px;
+    position: absolute;
+    background-color: #6C7C57;
+    border-radius: 4px;
+    padding: 1px 10px;
+    bottom: 8%;
+    left: 20px;
+}
+.goToEvent:hover {
+    color: #cc1618;
+    text-decoration: none;
+}
+
+.goToEvent:hover svg {
+    -webkit-transform: translate(10px, 0);
+    transform: translate(10px, 0);
+}
+
+.goToEvent svg {
+    fill: #B93228;
+    stroke: #B93228;
+    transition: transform .2s ease-in-out,
+        -webkit-transform .2s ease-in-out;
+}
+.sustainability>span {
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 12px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.goToEvent {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin-top: 24px;
+    border: none;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    color: #303030;
+    background-color: #FFFFFF;
+    align-items: center;
+}
+
+.goToEvent svg {
+    fill: #B93228;
+    stroke: #B93228;
+}
+.cardAbout {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    height: auto;
+    align-self: stretch;
+    margin: 0;
+    background: #fff;
+    padding: 20px;
+}
+.cardAbout button {
+    border: none !important;
+    opacity: 1 !important;
+}
+.location {
+    color: #303030;
+    font-size: 12px;
+    line-height: 20px;
+    padding-left: 5px;
+
+}
+.chevronRightIcon {
+    margin-left: 13px;
+    margin-top: -5px;
+}
+.FeatureCard{margin-bottom: 30px;}

@@ -1,0 +1,57 @@
+.communityUpdateSection{
+    padding-bottom: auto;
+    
+}
+.communityUpdateSection img{
+    width: 100%;
+
+}
+.footerButton {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 16px 24px;
+    border-radius: 4px;
+    justify-self: center;
+    margin: auto;
+  }
+  
+.buttun {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    transition: .2s ease;
+  }
+  
+  .blackbuttun {
+    background: #303030;
+    color: #fff!important;
+    text-transform: uppercase;
+    padding: 10px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: max-content;
+    -webkit-transition: .2s ease;
+    transition: .2s ease;
+    height: 44px;
+    border-radius: 4px;
+  }
+.bigImage{
+    height: calc(100% - 15px);
+    max-height: 542px;
+    object-fit: cover;
+
+}
+.title {
+    margin-top: 60px;
+  }
+@media (max-width:480px){
+.bigImage {
+    margin-top: 15px;
+}
+}
+.imageBlocks a{
+    border-radius: 5px;
+}

@@ -1,0 +1,59 @@
+{
+  "name": "experience-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port=4000",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "lint": "eslint \"*/**/*.{js,jsx}\" --quiet --fix"
+  },
+  "dependencies": {
+    "@sanity/block-content-to-react": "^2.0.6",
+    "@sanity/client": "^0.141.6",
+    "@sanity/image-url": "^0.140.12",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "cookies-next": "^2.1.1",
+    "custom-select-dropdown": "^1.0.24",
+    "d3": "^7.0.0",
+    "d3-ease": "^3.0.1",
+    "express": "^4.17.1",
+    "groq": "^0.141.5",
+    "html-react-parser": "^1.4.4",
+    "lodash": "^4.17.21",
+    "mapbox-gl": "^2.3.1",
+    "moment": "^2.29.1",
+    "next": "11.0.1",
+    "popper.js": "^1.16.1",
+    "react": "17.0.2",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "17.0.2",
+    "react-multi-carousel": "^2.6.3",
+    "react-player": "^2.10.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-next": "^11.0.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-simple-import-sort": "^7.0.0",
+    "husky": "^7.0.0",
+    "lint-staged": "^11.0.0",
+    "prettier": "^2.3.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,jsx}": [
+      "eslint '*/**/*.{js,jsx}' --fix"
+    ]
+  }
+}
